@@ -1,0 +1,1292 @@
+1
+00:00:03,132 --> 00:00:04,326  X1:310 X2:406 Y1:444 Y2:523
+- Hey.
+- Hey.
+
+2
+00:00:04,652 --> 00:00:06,961  X1:112 X2:603 Y1:482 Y2:523
+I saw the Porsche parked out front.
+
+3
+00:00:07,172 --> 00:00:10,528  X1:136 X2:579 Y1:444 Y2:523
+Can I get the keys?
+I'll take that bad boy for a spin.
+
+4
+00:00:10,772 --> 00:00:15,368  X1:106 X2:613 Y1:444 Y2:523
+Ross drives it? When I ask, you say
+you're the only one allowed to.
+
+5
+00:00:15,572 --> 00:00:18,882  X1:139 X2:578 Y1:448 Y2:523
+He's my brother, plus he drives
+so slow he couldn't hurt it.
+
+6
+00:00:19,092 --> 00:00:21,652  X1:104 X2:612 Y1:482 Y2:523
+It's a car, Monica, not a rocket ship.
+
+7
+00:00:22,252 --> 00:00:26,131  X1:146 X2:569 Y1:444 Y2:523
+Just replace the bulbs in the
+brake lights after you're done.
+
+8
+00:00:28,132 --> 00:00:29,247  X1:310 X2:406 Y1:450 Y2:523
+- Hey.
+- Hi.
+
+9
+00:00:29,452 --> 00:00:33,730  X1:126 X2:588 Y1:444 Y2:523
+Saw the Porsche. Looking good.
+When can I take it out again?
+
+10
+00:00:36,892 --> 00:00:41,249  X1:138 X2:577 Y1:450 Y2:523
+- You let Joey drive it?
+- I've never driven it. Not once.
+
+11
+00:00:41,492 --> 00:00:44,245  X1:159 X2:559 Y1:450 Y2:523
+Okay, once. Okay, I drive it
+all the time.
+
+12
+00:00:46,532 --> 00:00:50,491  X1:124 X2:593 Y1:444 Y2:523
+So much for the "you-can-drive-it
+but-don't-tell-Rachel" plan.
+
+13
+00:00:51,572 --> 00:00:53,528  X1:105 X2:609 Y1:482 Y2:523
+Wow, I can't believe you lied to me.
+
+14
+00:00:53,732 --> 00:00:58,408  X1:104 X2:613 Y1:444 Y2:523
+I can fix this. Monica, Rachel thinks
+all you talk about is the wedding.
+
+15
+00:01:00,652 --> 00:01:05,009  X1:130 X2:587 Y1:444 Y2:523
+I won't let you drive the Porsche
+because you're a terrible driver.
+
+16
+00:01:05,212 --> 00:01:07,726  X1:082 X2:632 Y1:482 Y2:523
+There. That wasn't about the wedding.
+
+17
+00:01:09,412 --> 00:01:13,928  X1:125 X2:591 Y1:444 Y2:523
+If you want a ride in the Porsche,
+I'll take you around the block.
+
+18
+00:01:14,132 --> 00:01:15,565  X1:184 X2:532 Y1:482 Y2:523
+You got a couple hours?
+
+19
+00:01:17,252 --> 00:01:19,322  X1:150 X2:566 Y1:486 Y2:523
+The One With Chandler's Dad
+
+20
+00:01:21,932 --> 00:01:22,921  X1:216 X2:502 Y1:444 Y2:523
+English Subtitles by
+SDI Media Group
+
+21
+00:01:54,972 --> 00:01:57,440  X1:154 X2:561 Y1:054 Y2:091
+Whew, that was a brisk ride.
+
+22
+00:01:58,852 --> 00:02:02,640  X1:151 X2:566 Y1:054 Y2:132
+- Take the top down, did you?
+- Only way to fly.
+
+23
+00:02:03,092 --> 00:02:07,563  X1:107 X2:608 Y1:054 Y2:128
+Give me the keys. Monica's wrong.
+I'm an excellent driver.
+
+24
+00:02:07,772 --> 00:02:11,651  X1:151 X2:563 Y1:054 Y2:133
+You're fast and irresponsible.
+That adds up to a bad driver.
+
+25
+00:02:11,892 --> 00:02:15,282  X1:152 X2:565 Y1:054 Y2:127
+In high school, that added up
+to head cheerleader.
+
+26
+00:02:19,252 --> 00:02:21,208  X1:112 X2:606 Y1:054 Y2:094
+Did you see how she looked at me?
+
+27
+00:02:22,492 --> 00:02:25,370  X1:148 X2:568 Y1:054 Y2:133
+She must've seen me cruising
+in the bad boy.
+
+28
+00:02:25,812 --> 00:02:28,645  X1:121 X2:594 Y1:054 Y2:128
+- She's checking out your beehive.
+- What?
+
+29
+00:02:29,892 --> 00:02:31,723  X1:228 X2:487 Y1:054 Y2:132
+- Give me a brush.
+- The keys.
+
+30
+00:02:31,932 --> 00:02:33,445  X1:239 X2:476 Y1:448 Y2:523
+- No way!
+- Well, no brush.
+
+31
+00:02:33,652 --> 00:02:35,483  X1:189 X2:527 Y1:054 Y2:090
+Fine. It doesn't matter.
+
+32
+00:02:35,732 --> 00:02:40,248  X1:100 X2:614 Y1:054 Y2:128
+If I remember correctly, there's
+a comb on the floor of the bathroom.
+
+33
+00:02:55,772 --> 00:02:56,807  X1:286 X2:428 Y1:054 Y2:094
+Alimony.
+
+34
+00:03:00,892 --> 00:03:04,043  X1:174 X2:542 Y1:444 Y2:523
+We still haven't gotten an
+RSVP from your dad.
+
+35
+00:03:04,292 --> 00:03:08,649  X1:120 X2:597 Y1:448 Y2:523
+Oh, right. Maybe that's because I
+didn't send him an invitation.
+
+36
+00:03:09,612 --> 00:03:12,684  X1:151 X2:564 Y1:444 Y2:523
+He's your father.
+He should be at our wedding.
+
+37
+00:03:12,932 --> 00:03:16,720  X1:163 X2:553 Y1:444 Y2:523
+I don't even know him.
+I haven't seen him in years.
+
+38
+00:03:16,932 --> 00:03:19,321  X1:194 X2:523 Y1:450 Y2:523
+And when he finds out
+he wasn't asked?
+
+39
+00:03:19,532 --> 00:03:21,807  X1:125 X2:589 Y1:486 Y2:523
+We don't run in the same circles.
+
+40
+00:03:22,052 --> 00:03:24,885  X1:117 X2:599 Y1:482 Y2:523
+I hang out with you guys and he...
+
+41
+00:03:25,132 --> 00:03:27,566  X1:131 X2:586 Y1:482 Y2:523
+...stars in a drag show in Vegas.
+
+42
+00:03:28,732 --> 00:03:30,962  X1:150 X2:566 Y1:488 Y2:523
+I think I want to trade circles.
+
+43
+00:03:31,212 --> 00:03:34,010  X1:136 X2:579 Y1:444 Y2:523
+You don't want him there.
+Nobody will stare at the bride...
+
+44
+00:03:34,252 --> 00:03:37,403  X1:157 X2:561 Y1:444 Y2:523
+...when the groom's father's
+wearing a backless dress.
+
+45
+00:03:38,092 --> 00:03:42,085  X1:122 X2:592 Y1:446 Y2:523
+As long as he's not wearing a
+white dress and veil, I don't care.
+
+46
+00:03:42,292 --> 00:03:44,647  X1:112 X2:604 Y1:482 Y2:523
+I think I need to do some shopping.
+
+47
+00:03:52,452 --> 00:03:53,851  X1:311 X2:404 Y1:488 Y2:523
+Nice.
+
+48
+00:03:55,972 --> 00:03:57,166  X1:289 X2:427 Y1:482 Y2:523
+My God!
+
+49
+00:03:58,652 --> 00:04:02,531  X1:125 X2:592 Y1:444 Y2:523
+- What do you think you're doing?
+- Just washing the windshield.
+
+50
+00:04:07,212 --> 00:04:10,010  X1:172 X2:545 Y1:448 Y2:523
+There's no way I'll let you
+drive this car.
+
+51
+00:04:10,252 --> 00:04:11,970  X1:180 X2:533 Y1:482 Y2:523
+Just hand over the keys.
+
+52
+00:04:12,212 --> 00:04:13,008  X1:321 X2:394 Y1:488 Y2:523
+Oh!
+
+53
+00:04:14,252 --> 00:04:16,561  X1:208 X2:508 Y1:488 Y2:523
+Do not start this car.
+
+54
+00:04:19,532 --> 00:04:22,604  X1:173 X2:542 Y1:444 Y2:523
+Okay, okay.
+I will give you 20 bucks...
+
+55
+00:04:22,812 --> 00:04:25,884  X1:170 X2:549 Y1:444 Y2:523
+...if you get out of this car
+right now. Hey!
+
+56
+00:04:27,732 --> 00:04:28,528  X1:308 X2:407 Y1:488 Y2:523
+Look.
+
+57
+00:04:28,932 --> 00:04:31,651  X1:185 X2:531 Y1:444 Y2:523
+If you're so freaked out,
+get in the car.
+
+58
+00:04:31,852 --> 00:04:33,444  X1:191 X2:523 Y1:482 Y2:523
+With you? Yeah, right.
+
+59
+00:04:33,652 --> 00:04:34,607  X1:287 X2:428 Y1:482 Y2:523
+All right.
+
+60
+00:04:35,012 --> 00:04:36,684  X1:226 X2:490 Y1:482 Y2:523
+Okay, okay, okay.
+
+61
+00:04:40,692 --> 00:04:44,401  X1:114 X2:601 Y1:450 Y2:523
+- What are you doing? Get in front.
+- In the death seat?!
+
+62
+00:04:50,772 --> 00:04:52,444  X1:262 X2:454 Y1:448 Y2:523
+- Hey, guys.
+- Hi, sweetie.
+
+63
+00:04:52,652 --> 00:04:55,883  X1:109 X2:606 Y1:444 Y2:523
+- Ready to go?
+- My purse is at Mon's. I'll be back.
+
+64
+00:04:56,132 --> 00:04:57,884  X1:244 X2:472 Y1:450 Y2:523
+- Wait a minute.
+- What? Oh.
+
+65
+00:05:04,252 --> 00:05:05,890  X1:207 X2:507 Y1:482 Y2:523
+That one kept going.
+
+66
+00:05:10,692 --> 00:05:12,523  X1:171 X2:545 Y1:482 Y2:523
+So, you and Phoebe, huh?
+
+67
+00:05:12,732 --> 00:05:15,485  X1:104 X2:613 Y1:450 Y2:523
+- How long have you been going out?
+- A month.
+
+68
+00:05:15,732 --> 00:05:18,041  X1:187 X2:528 Y1:450 Y2:523
+We ought to get to
+know each other better.
+
+69
+00:05:18,252 --> 00:05:21,688  X1:215 X2:500 Y1:446 Y2:523
+- Sure. I'd like that.
+- Yeah. So, uh... .
+
+70
+00:05:22,412 --> 00:05:24,164  X1:217 X2:499 Y1:482 Y2:523
+What's your name?
+
+71
+00:05:26,492 --> 00:05:28,164  X1:278 X2:437 Y1:444 Y2:523
+- It's Jake.
+- Joey.
+
+72
+00:05:28,812 --> 00:05:31,372  X1:186 X2:531 Y1:444 Y2:523
+- Do you like the Knicks?
+- Yeah, big fan.
+
+73
+00:05:31,612 --> 00:05:34,888  X1:119 X2:596 Y1:444 Y2:523
+Me too. There's a game Tuesday.
+Do you want to go?
+
+74
+00:05:35,132 --> 00:05:38,681  X1:126 X2:591 Y1:444 Y2:523
+Great! Let me make sure I'm not
+doing anything Tuesday.
+
+75
+00:05:46,332 --> 00:05:47,128  X1:310 X2:406 Y1:488 Y2:523
+Here.
+
+76
+00:05:48,292 --> 00:05:51,489  X1:090 X2:626 Y1:444 Y2:523
+- What's this?
+- Your suitcase. We're going to Vegas.
+
+77
+00:05:51,732 --> 00:05:54,883  X1:146 X2:570 Y1:444 Y2:523
+Are you serious? Eloping?
+No more stupid wedding stuff.
+
+78
+00:05:55,092 --> 00:05:59,131  X1:095 X2:621 Y1:444 Y2:523
+No more these flowers, these flowers.
+Think of the money we'll save.
+
+79
+00:05:59,332 --> 00:06:03,007  X1:110 X2:607 Y1:444 Y2:523
+We're not eloping.
+Can our wedding be bigger, please?
+
+80
+00:06:04,052 --> 00:06:05,929  X1:152 X2:562 Y1:482 Y2:523
+We're going to see your dad.
+
+81
+00:06:06,172 --> 00:06:08,402  X1:202 X2:516 Y1:444 Y2:523
+I want to get to know
+my father-in-law.
+
+82
+00:06:08,652 --> 00:06:10,722  X1:132 X2:582 Y1:486 Y2:523
+When we went over this, I won.
+
+83
+00:06:10,932 --> 00:06:13,730  X1:162 X2:554 Y1:444 Y2:523
+No, you didn't.
+Honey, just so you know... .
+
+84
+00:06:13,932 --> 00:06:17,322  X1:144 X2:570 Y1:444 Y2:523
+Now that you're marrying me,
+you don't get to win anymore.
+
+85
+00:06:17,972 --> 00:06:21,601  X1:151 X2:565 Y1:448 Y2:523
+Forget it. I don't want to go.
+I don't want to see him.
+
+86
+00:06:22,132 --> 00:06:24,327  X1:118 X2:597 Y1:482 Y2:523
+I know your dad embarrassed you.
+
+87
+00:06:24,572 --> 00:06:27,370  X1:184 X2:532 Y1:444 Y2:523
+All kids are embarrassed
+by their parents.
+
+88
+00:06:27,612 --> 00:06:30,331  X1:182 X2:532 Y1:444 Y2:523
+You need a new word
+for what I went through.
+
+89
+00:06:30,972 --> 00:06:33,930  X1:131 X2:584 Y1:444 Y2:523
+In high school,
+he came to all my swim meets...
+
+90
+00:06:34,132 --> 00:06:36,521  X1:125 X2:591 Y1:482 Y2:523
+...dressed as a Hollywood starlet.
+
+91
+00:06:37,012 --> 00:06:41,927  X1:089 X2:628 Y1:444 Y2:523
+Hard enough to be 14, skinny, wearing
+Speedos Mom promised I'd grow into.
+
+92
+00:06:44,692 --> 00:06:47,764  X1:118 X2:596 Y1:444 Y2:523
+You look up in the stands.
+There's your dad cheering you on.
+
+93
+00:06:48,012 --> 00:06:51,891  X1:102 X2:615 Y1:450 Y2:523
+Dressed as Carmen Miranda, wearing
+a headdress with real fruit...
+
+94
+00:06:52,092 --> 00:06:55,971  X1:156 X2:564 Y1:444 Y2:523
+...that he'll later give to your
+friends as a healthy snack.
+
+95
+00:06:56,212 --> 00:07:01,161  X1:077 X2:641 Y1:444 Y2:523
+He was at every one of your swim meets
+cheering you on.
+
+96
+00:07:01,412 --> 00:07:03,164  X1:175 X2:539 Y1:482 Y2:523
+That's a pretty great dad.
+
+97
+00:07:03,412 --> 00:07:05,243  X1:145 X2:570 Y1:488 Y2:523
+He had sex with Mr. Garibaldi.
+
+98
+00:07:05,452 --> 00:07:09,081  X1:202 X2:515 Y1:448 Y2:523
+- Who's Mr. Garibaldi?
+- Does it matter?!
+
+99
+00:07:11,732 --> 00:07:16,362  X1:093 X2:624 Y1:444 Y2:523
+You're not 14 anymore, okay? Maybe
+it's time you let that stuff go.
+
+100
+00:07:17,412 --> 00:07:22,327  X1:121 X2:596 Y1:444 Y2:523
+If he's not at your wedding, you'll
+regret it for the rest of your life.
+
+101
+00:07:24,732 --> 00:07:27,451  X1:101 X2:614 Y1:482 Y2:523
+Okay, but I'm just doing this for you.
+
+102
+00:07:29,932 --> 00:07:33,766  X1:104 X2:614 Y1:444 Y2:523
+- I never get to win anymore?
+- How much did you ever win before?
+
+103
+00:07:39,412 --> 00:07:43,371  X1:104 X2:612 Y1:444 Y2:523
+You know how when you're wearing
+pants and you lean forward...
+
+104
+00:07:43,612 --> 00:07:45,682  X1:144 X2:575 Y1:482 Y2:523
+...I check out your underwear?
+
+105
+00:07:46,812 --> 00:07:48,689  X1:182 X2:532 Y1:486 Y2:523
+Well, when Jake did it...
+
+106
+00:07:48,892 --> 00:07:52,487  X1:157 X2:560 Y1:450 Y2:523
+...I saw that he was wearing
+women's underwear.
+
+107
+00:07:52,732 --> 00:07:54,370  X1:177 X2:539 Y1:482 Y2:523
+I know. They were mine.
+
+108
+00:07:55,572 --> 00:07:56,368  X1:321 X2:394 Y1:488 Y2:523
+Oh!
+
+109
+00:07:57,732 --> 00:08:00,041  X1:162 X2:554 Y1:484 Y2:523
+No, no, wait. That's weird.
+
+110
+00:08:00,612 --> 00:08:04,287  X1:138 X2:576 Y1:444 Y2:523
+We were goofing around,
+and I dared him to try them on.
+
+111
+00:08:04,492 --> 00:08:05,368  X1:257 X2:458 Y1:486 Y2:523
+That's weird!
+
+112
+00:08:05,572 --> 00:08:09,247  X1:126 X2:589 Y1:448 Y2:523
+- I'm wearing his briefs right now.
+- That's kind of hot.
+
+113
+00:08:09,932 --> 00:08:14,847  X1:117 X2:601 Y1:444 Y2:523
+I think so too. And that little flap?
+Great for holding my lipstick.
+
+114
+00:08:20,092 --> 00:08:21,844  X1:161 X2:554 Y1:486 Y2:523
+I wouldn't know about that.
+
+115
+00:08:23,252 --> 00:08:27,325  X1:111 X2:605 Y1:444 Y2:523
+Jake says that women's underwear
+is actually more comfortable.
+
+116
+00:08:27,572 --> 00:08:30,325  X1:194 X2:523 Y1:444 Y2:523
+He loves how silk feels
+against his skin.
+
+117
+00:08:30,532 --> 00:08:34,286  X1:151 X2:567 Y1:444 Y2:523
+Next he'll say your high heels
+are good for his posture.
+
+118
+00:08:35,052 --> 00:08:38,169  X1:123 X2:592 Y1:448 Y2:523
+There's nothing wrong with Jake.
+He is all man.
+
+119
+00:08:38,412 --> 00:08:39,970  X1:199 X2:516 Y1:482 Y2:523
+I think more than you.
+
+120
+00:08:40,172 --> 00:08:43,881  X1:137 X2:580 Y1:444 Y2:523
+He looked like a real lumberjack
+in those pink lacies.
+
+121
+00:08:44,932 --> 00:08:48,368  X1:149 X2:569 Y1:444 Y2:523
+Only a man completely secure
+in his masculinity could...
+
+122
+00:08:48,572 --> 00:08:52,247  X1:093 X2:624 Y1:444 Y2:523
+...walk around in women's underwear.
+I don't think you could.
+
+123
+00:08:52,452 --> 00:08:56,286  X1:124 X2:591 Y1:444 Y2:523
+- I am secure with my masculinity.
+- Okay, whatever.
+
+124
+00:08:56,532 --> 00:08:58,966  X1:106 X2:608 Y1:482 Y2:523
+You've seen my huge stack of porn.
+
+125
+00:09:09,932 --> 00:09:12,730  X1:093 X2:622 Y1:482 Y2:523
+God, I forgot how much I love driving.
+
+126
+00:09:12,932 --> 00:09:15,526  X1:097 X2:619 Y1:482 Y2:523
+I have got to get my license renewed.
+
+127
+00:09:18,452 --> 00:09:22,240  X1:143 X2:574 Y1:444 Y2:523
+You don't have a valid driver's
+license? Pull over right now.
+
+128
+00:09:22,452 --> 00:09:25,330  X1:168 X2:549 Y1:444 Y2:523
+You're so tense.
+You just gotta relax, okay?
+
+129
+00:09:25,532 --> 00:09:30,447  X1:104 X2:614 Y1:450 Y2:523
+Okay? Just need to relax. All right?
+Just need to relax.
+
+130
+00:09:30,812 --> 00:09:34,282  X1:115 X2:599 Y1:444 Y2:523
+What are you...? That's not funny.
+Stop horsing around.
+
+131
+00:09:34,492 --> 00:09:36,881  X1:141 X2:577 Y1:482 Y2:523
+I am not horsing around, okay?
+
+132
+00:09:37,132 --> 00:09:39,965  X1:167 X2:548 Y1:482 Y2:523
+I am "Porsche-ing" around.
+
+133
+00:09:44,572 --> 00:09:45,687  X1:301 X2:415 Y1:488 Y2:523
+Uh-oh.
+
+134
+00:09:46,772 --> 00:09:51,641  X1:130 X2:584 Y1:450 Y2:523
+Stay calm. Nothing will happen.
+You're not in that much trouble.
+
+135
+00:09:51,852 --> 00:09:53,171  X1:200 X2:518 Y1:482 Y2:523
+Really? You think so?
+
+136
+00:09:53,372 --> 00:09:56,045  X1:206 X2:510 Y1:444 Y2:523
+I'm talking to myself.
+You're going down!
+
+137
+00:10:38,012 --> 00:10:39,730  X1:138 X2:579 Y1:482 Y2:523
+Has someone taken your order?
+
+138
+00:10:39,932 --> 00:10:44,847  X1:119 X2:599 Y1:444 Y2:523
+Oh, yeah. She did. He did. She?
+I'm sorry, I'm new. I don't... .
+
+139
+00:10:47,412 --> 00:10:50,484  X1:180 X2:536 Y1:444 Y2:523
+- I just ordered a beer.
+- You're straight. I get it.
+
+140
+00:10:53,172 --> 00:10:55,322  X1:189 X2:526 Y1:450 Y2:523
+If we called your dad,
+we'd have better seats.
+
+141
+00:10:55,572 --> 00:10:59,201  X1:137 X2:581 Y1:444 Y2:523
+I don't want him to know we're
+here yet. I'm not ready.
+
+142
+00:10:59,452 --> 00:11:02,046  X1:194 X2:524 Y1:448 Y2:523
+He won't be too happy
+to see me either.
+
+143
+00:11:02,252 --> 00:11:03,162  X1:281 X2:435 Y1:482 Y2:523
+Why not?
+
+144
+00:11:04,412 --> 00:11:07,245  X1:121 X2:595 Y1:486 Y2:523
+He's kind of tried to contact me...
+
+145
+00:11:07,452 --> 00:11:11,047  X1:168 X2:547 Y1:450 Y2:523
+...a lot the last few years.
+- What?
+
+146
+00:11:11,252 --> 00:11:14,403  X1:144 X2:571 Y1:448 Y2:523
+Yeah. He's made phone calls,
+written letters.
+
+147
+00:11:14,652 --> 00:11:17,450  X1:197 X2:518 Y1:444 Y2:523
+He came to New York.
+I said I was too busy.
+
+148
+00:11:17,692 --> 00:11:21,207  X1:150 X2:566 Y1:444 Y2:523
+It's very "Cats in the Cradle. "
+I don't want to get into it.
+
+149
+00:11:23,972 --> 00:11:25,087  X1:265 X2:451 Y1:482 Y2:523
+Here we go.
+
+150
+00:11:25,452 --> 00:11:28,842  X1:157 X2:558 Y1:444 Y2:523
+<i>Ladies and gentlemen, </i>
+<i>welcome the incomparable... </i>
+
+151
+00:11:29,052 --> 00:11:31,247  X1:199 X2:514 Y1:488 Y2:523
+<i>... Helena Handbasket. </i>
+
+152
+00:11:35,212 --> 00:11:36,804  X1:247 X2:469 Y1:482 Y2:523
+Hello, darlings.
+
+153
+00:11:37,052 --> 00:11:38,451  X1:217 X2:498 Y1:482 Y2:523
+And there's Daddy.
+
+154
+00:11:45,772 --> 00:11:49,082  X1:118 X2:596 Y1:444 Y2:523
+Switch places with me. Come on!
+I'll go under, you go over.
+
+155
+00:11:49,292 --> 00:11:52,125  X1:165 X2:551 Y1:448 Y2:523
+- Yeah, I'll get right on that.
+- Come on!
+
+156
+00:11:52,372 --> 00:11:54,488  X1:123 X2:592 Y1:482 Y2:523
+What? No. Hey, Rach, come on.
+
+157
+00:11:55,052 --> 00:11:57,327  X1:142 X2:575 Y1:448 Y2:523
+I'm sure we won't get arrested
+for this.
+
+158
+00:12:03,812 --> 00:12:07,487  X1:158 X2:559 Y1:444 Y2:523
+Hi, officer.
+Was I going a little too fast?
+
+159
+00:12:07,692 --> 00:12:09,205  X1:261 X2:454 Y1:482 Y2:523
+Oh, my God.
+
+160
+00:12:10,012 --> 00:12:12,924  X1:137 X2:580 Y1:444 Y2:523
+- Can I see your license, please?
+- Absolutely.
+
+161
+00:12:13,132 --> 00:12:18,047  X1:113 X2:606 Y1:444 Y2:523
+It's weird. I had a dream last night
+that I was stopped by a policeman.
+
+162
+00:12:18,692 --> 00:12:19,761  X1:243 X2:471 Y1:488 Y2:523
+And then he... .
+
+163
+00:12:20,012 --> 00:12:23,322  X1:175 X2:542 Y1:444 Y2:523
+Well, I probably shouldn't
+tell you the rest.
+
+164
+00:12:24,092 --> 00:12:28,643  X1:153 X2:562 Y1:444 Y2:523
+- Your license.
+- Yes. Here you go, Officer...
+
+165
+00:12:28,852 --> 00:12:30,251  X1:258 X2:458 Y1:488 Y2:523
+...Handsome.
+
+166
+00:12:31,212 --> 00:12:34,249  X1:170 X2:546 Y1:444 Y2:523
+- It's Hanson.
+- Oops, sorry. My mistake.
+
+167
+00:12:34,692 --> 00:12:36,330  X1:276 X2:439 Y1:488 Y2:523
+Dear Lord!
+
+168
+00:12:37,772 --> 00:12:39,603  X1:245 X2:471 Y1:450 Y2:523
+- Wow!
+- Here it comes.
+
+169
+00:12:39,812 --> 00:12:41,689  X1:196 X2:519 Y1:482 Y2:523
+This is a great picture.
+
+170
+00:12:43,012 --> 00:12:47,005  X1:120 X2:597 Y1:444 Y2:523
+Really? You think so? You know,
+I had just rolled right out of bed.
+
+171
+00:12:47,212 --> 00:12:48,122  X1:199 X2:516 Y1:482 Y2:523
+You look phenomenal.
+
+172
+00:12:48,332 --> 00:12:51,130  X1:169 X2:547 Y1:444 Y2:523
+She should!
+It was taken 10 years ago!
+
+173
+00:12:54,332 --> 00:12:56,368  X1:169 X2:545 Y1:482 Y2:523
+You know, you probably...
+
+174
+00:12:56,572 --> 00:12:58,449  X1:153 X2:564 Y1:488 Y2:523
+...wonder about the old date.
+
+175
+00:12:58,692 --> 00:13:01,684  X1:139 X2:578 Y1:482 Y2:523
+Yes. You're an Aquarius, huh?
+
+176
+00:13:03,372 --> 00:13:05,567  X1:185 X2:530 Y1:448 Y2:523
+- I'll bet you're a Gemini.
+- No.
+
+177
+00:13:05,812 --> 00:13:06,961  X1:288 X2:429 Y1:450 Y2:523
+- Taurus?
+- No.
+
+178
+00:13:07,172 --> 00:13:08,890  X1:298 X2:419 Y1:450 Y2:523
+- Virgo?
+- No.
+
+179
+00:13:09,092 --> 00:13:10,445  X1:263 X2:454 Y1:444 Y2:523
+- Sagittarius?
+- Yep.
+
+180
+00:13:10,652 --> 00:13:13,325  X1:210 X2:505 Y1:488 Y2:523
+I knew it. I knew it!
+
+181
+00:13:13,732 --> 00:13:15,927  X1:126 X2:590 Y1:482 Y2:523
+You won't speed anymore, right?
+
+182
+00:13:16,132 --> 00:13:17,770  X1:250 X2:466 Y1:482 Y2:523
+I won't speed.
+
+183
+00:13:18,012 --> 00:13:19,411  X1:152 X2:565 Y1:444 Y2:523
+- Promise to take care of this?
+- I promise.
+
+184
+00:13:19,612 --> 00:13:21,887  X1:187 X2:530 Y1:450 Y2:523
+Let him drive.
+Does he have a license?
+
+185
+00:13:22,132 --> 00:13:24,600  X1:191 X2:526 Y1:450 Y2:523
+- Can he handle a stick?
+- Well... .
+
+186
+00:13:24,812 --> 00:13:27,246  X1:212 X2:504 Y1:488 Y2:523
+I can handle a stick!
+
+187
+00:13:41,572 --> 00:13:45,884  X1:135 X2:581 Y1:444 Y2:523
+- That can't be your father.
+- I've been saying that for years.
+
+188
+00:13:46,092 --> 00:13:48,162  X1:256 X2:459 Y1:450 Y2:523
+- Oh, my God!
+- What?
+
+189
+00:13:48,372 --> 00:13:51,444  X1:214 X2:502 Y1:444 Y2:523
+That's Mr. Garibaldi
+playing the piano.
+
+190
+00:14:04,292 --> 00:14:06,852  X1:129 X2:587 Y1:486 Y2:523
+Hello, and welcome to the show.
+
+191
+00:14:07,092 --> 00:14:10,767  X1:174 X2:544 Y1:450 Y2:523
+I see some of our regulars
+in the audience.
+
+192
+00:14:11,012 --> 00:14:14,129  X1:169 X2:545 Y1:482 Y2:523
+And a couple of irregulars.
+
+193
+00:14:15,772 --> 00:14:19,651  X1:136 X2:579 Y1:448 Y2:523
+- He's coming into the audience.
+- Relax. You'll be fine.
+
+194
+00:14:20,252 --> 00:14:23,244  X1:206 X2:508 Y1:450 Y2:523
+Oh, much better.
+You're invisible now.
+
+195
+00:14:23,892 --> 00:14:26,531  X1:203 X2:515 Y1:450 Y2:523
+- Where are you from?
+- Bakersfield.
+
+196
+00:14:26,732 --> 00:14:28,643  X1:264 X2:452 Y1:448 Y2:523
+- I'm sorry?
+- Bakersfield.
+
+197
+00:14:28,972 --> 00:14:31,770  X1:139 X2:576 Y1:482 Y2:523
+No, no, I heard. I'm just sorry.
+
+198
+00:14:33,132 --> 00:14:35,327  X1:143 X2:573 Y1:482 Y2:523
+I'll meet you back at the hotel.
+
+199
+00:14:36,812 --> 00:14:40,851  X1:127 X2:589 Y1:444 Y2:523
+Look, a standing ovation already.
+So early in the show.
+
+200
+00:14:41,092 --> 00:14:44,846  X1:159 X2:556 Y1:444 Y2:523
+Turn around, darling.
+Let me see your pretty face.
+
+201
+00:14:52,692 --> 00:14:56,526  X1:132 X2:586 Y1:450 Y2:523
+Can we have our drinks, please?
+Waiter? ...tress?
+
+202
+00:15:07,852 --> 00:15:09,524  X1:254 X2:462 Y1:444 Y2:523
+- Hey, Pheebs.
+- Hey.
+
+203
+00:15:12,012 --> 00:15:13,161  X1:260 X2:456 Y1:488 Y2:523
+Check it out.
+
+204
+00:15:18,772 --> 00:15:20,763  X1:173 X2:545 Y1:488 Y2:523
+How much of a man am I?
+
+205
+00:15:20,972 --> 00:15:25,409  X1:145 X2:570 Y1:444 Y2:523
+Wow, nice.
+Manly, and also kind of a slut.
+
+206
+00:15:26,532 --> 00:15:29,808  X1:139 X2:578 Y1:444 Y2:523
+I'm beginning to see what Jake
+was talking about.
+
+207
+00:15:30,012 --> 00:15:32,128  X1:176 X2:539 Y1:482 Y2:523
+The silk feels really good.
+
+208
+00:15:32,852 --> 00:15:37,482  X1:108 X2:608 Y1:444 Y2:523
+And things aren't as smashed down
+as I thought they would be.
+
+209
+00:15:37,812 --> 00:15:38,801  X1:259 X2:455 Y1:482 Y2:523
+That's great.
+
+210
+00:15:39,012 --> 00:15:42,641  X1:132 X2:584 Y1:450 Y2:523
+You have so many more choices
+than with men's underwear.
+
+211
+00:15:42,892 --> 00:15:47,010  X1:114 X2:600 Y1:448 Y2:523
+Bikini, French cut, thong.
+And the fabrics: cotton, silk, lace.
+
+212
+00:15:47,212 --> 00:15:50,682  X1:150 X2:565 Y1:444 Y2:523
+You know what I've always
+wondered about? Pantyhose!
+
+213
+00:15:50,892 --> 00:15:54,851  X1:135 X2:581 Y1:444 Y2:523
+The way they start at your toe,
+then they go all the way up to...
+
+214
+00:15:57,892 --> 00:16:02,044  X1:152 X2:564 Y1:444 Y2:523
+- I should go take these off.
+- I think it's important you do.
+
+215
+00:16:04,132 --> 00:16:05,281  X1:217 X2:499 Y1:482 Y2:523
+What's your name?
+
+216
+00:16:07,772 --> 00:16:08,921  X1:282 X2:433 Y1:488 Y2:523
+Chandler.
+
+217
+00:16:10,612 --> 00:16:11,601  X1:280 X2:437 Y1:488 Y2:523
+Chandler?
+
+218
+00:16:11,812 --> 00:16:13,962  X1:189 X2:525 Y1:488 Y2:523
+What an unusual name.
+
+219
+00:16:14,172 --> 00:16:17,369  X1:168 X2:550 Y1:444 Y2:523
+You must have had terribly
+fascinating parents.
+
+220
+00:16:17,572 --> 00:16:19,449  X1:219 X2:496 Y1:482 Y2:523
+Oh, they're a hoot.
+
+221
+00:16:21,492 --> 00:16:23,164  X1:187 X2:530 Y1:482 Y2:523
+And who is your friend?
+
+222
+00:16:23,612 --> 00:16:25,170  X1:267 X2:448 Y1:486 Y2:523
+I'm Monica.
+
+223
+00:16:26,292 --> 00:16:29,728  X1:141 X2:576 Y1:450 Y2:523
+- Monica. Where are you from?
+- New York.
+
+224
+00:16:29,932 --> 00:16:34,847  X1:140 X2:575 Y1:446 Y2:523
+I'm not very fond of New York.
+Queens, I like.
+
+225
+00:16:37,452 --> 00:16:38,931  X1:250 X2:464 Y1:488 Y2:523
+What is this...
+
+226
+00:16:39,372 --> 00:16:42,967  X1:111 X2:608 Y1:482 Y2:523
+...sparkling something, honey, huh?
+
+227
+00:16:44,172 --> 00:16:46,845  X1:107 X2:607 Y1:482 Y2:523
+Actually, Monica and I are engaged.
+
+228
+00:16:48,012 --> 00:16:49,001  X1:299 X2:419 Y1:482 Y2:523
+Really?
+
+229
+00:16:50,212 --> 00:16:51,691  X1:238 X2:478 Y1:482 Y2:523
+Congratulations.
+
+230
+00:16:52,812 --> 00:16:54,450  X1:209 X2:507 Y1:482 Y2:523
+When's the big day?
+
+231
+00:16:56,292 --> 00:16:58,044  X1:252 X2:464 Y1:488 Y2:523
+In two weeks.
+
+232
+00:16:59,172 --> 00:17:00,366  X1:308 X2:407 Y1:488 Y2:523
+I see.
+
+233
+00:17:01,972 --> 00:17:06,443  X1:191 X2:523 Y1:444 Y2:523
+Well, I wish you both
+a lifetime of happiness.
+
+234
+00:17:07,372 --> 00:17:08,725  X1:238 X2:476 Y1:482 Y2:523
+So, you're bald.
+
+235
+00:17:09,652 --> 00:17:10,448  X1:271 X2:443 Y1:486 Y2:523
+Wait, wait.
+
+236
+00:17:13,692 --> 00:17:16,126  X1:119 X2:596 Y1:482 Y2:523
+We'd love it if you could be there.
+
+237
+00:17:18,332 --> 00:17:19,401  X1:299 X2:419 Y1:482 Y2:523
+Really?
+
+238
+00:17:21,532 --> 00:17:23,648  X1:121 X2:595 Y1:482 Y2:523
+I know it would make me happy...
+
+239
+00:17:24,812 --> 00:17:26,245  X1:282 X2:434 Y1:486 Y2:523
+...ma'am.
+
+240
+00:17:28,732 --> 00:17:31,200  X1:098 X2:616 Y1:486 Y2:523
+Then I wouldn't miss it for the world.
+
+241
+00:17:32,612 --> 00:17:35,046  X1:177 X2:539 Y1:482 Y2:523
+I'm getting all misty here.
+
+242
+00:17:35,412 --> 00:17:39,246  X1:079 X2:637 Y1:444 Y2:523
+You'd think I was having my legs waxed
+or something.
+
+243
+00:17:42,612 --> 00:17:44,250  X1:272 X2:446 Y1:450 Y2:523
+- You okay?
+- Yeah.
+
+244
+00:17:45,452 --> 00:17:47,647  X1:144 X2:570 Y1:482 Y2:523
+Thanks for making me do this.
+
+245
+00:17:48,572 --> 00:17:53,088  X1:088 X2:631 Y1:444 Y2:523
+Before we go on with the show, I want
+to say to the bride and groom...
+
+246
+00:17:53,292 --> 00:17:56,250  X1:152 X2:566 Y1:450 Y2:523
+...how lucky they are to have
+found each other.
+
+247
+00:17:56,452 --> 00:17:59,046  X1:127 X2:588 Y1:482 Y2:523
+In every life a little rain must fall.
+
+248
+00:17:59,252 --> 00:18:00,480  X1:257 X2:459 Y1:482 Y2:523
+Fortunately...
+
+249
+00:18:00,692 --> 00:18:02,444  X1:250 X2:466 Y1:482 Y2:523
+...in my life... .
+
+250
+00:18:16,652 --> 00:18:20,122  X1:127 X2:588 Y1:450 Y2:523
+When I was growing up, I played
+the one on the far left.
+
+251
+00:18:31,092 --> 00:18:33,083  X1:161 X2:557 Y1:450 Y2:523
+Remind me to introduce you
+to someone.
+
+252
+00:18:33,332 --> 00:18:34,651  X1:260 X2:456 Y1:444 Y2:523
+- Who?
+- Fourth gear.
+
+253
+00:18:38,372 --> 00:18:41,603  X1:185 X2:530 Y1:444 Y2:523
+What does he want?
+I wasn't doing anything.
+
+254
+00:18:41,812 --> 00:18:46,727  X1:101 X2:617 Y1:444 Y2:523
+Maybe he saw your hands slip briefly
+from the 10 and 2:00 position.
+
+255
+00:18:48,532 --> 00:18:52,764  X1:135 X2:579 Y1:444 Y2:523
+Maybe it's Sergeant Sagittarius
+coming back to flirt some more.
+
+256
+00:18:55,212 --> 00:18:57,203  X1:218 X2:498 Y1:482 Y2:523
+It's a different guy.
+
+257
+00:18:59,852 --> 00:19:03,367  X1:079 X2:639 Y1:444 Y2:523
+- Good evening, sir.
+- Do you know how fast you were going?
+
+258
+00:19:03,572 --> 00:19:07,121  X1:171 X2:547 Y1:448 Y2:523
+No, I don't, but it couldn't
+have been more than 60.
+
+259
+00:19:07,332 --> 00:19:09,004  X1:184 X2:530 Y1:482 Y2:523
+You're right. It was 37.
+
+260
+00:19:13,812 --> 00:19:16,963  X1:150 X2:566 Y1:444 Y2:523
+You're not ticketing me
+for driving too slow, are you?
+
+261
+00:19:17,212 --> 00:19:18,008  X1:263 X2:452 Y1:482 Y2:523
+That's right.
+
+262
+00:19:27,132 --> 00:19:28,611  X1:207 X2:508 Y1:486 Y2:523
+You know, officer... .
+
+263
+00:19:30,252 --> 00:19:32,641  X1:111 X2:604 Y1:482 Y2:523
+I had the weirdest dream last night.
+
+264
+00:19:32,852 --> 00:19:34,171  X1:261 X2:454 Y1:482 Y2:523
+Oh, my God!
+
+265
+00:19:35,532 --> 00:19:36,806  X1:208 X2:507 Y1:482 Y2:523
+Your license, please.
+
+266
+00:19:38,452 --> 00:19:41,649  X1:191 X2:526 Y1:444 Y2:523
+You don't want to hear
+about my dream...
+
+267
+00:19:41,852 --> 00:19:42,967  X1:272 X2:445 Y1:488 Y2:523
+...Officer...
+
+268
+00:19:43,532 --> 00:19:44,851  X1:285 X2:433 Y1:482 Y2:523
+...Pretty?
+
+269
+00:19:48,252 --> 00:19:49,526  X1:280 X2:435 Y1:482 Y2:523
+It's Petty.
+
+270
+00:19:51,332 --> 00:19:53,687  X1:125 X2:590 Y1:482 Y2:523
+I'll be right back with your ticket.
+
+271
+00:19:56,172 --> 00:19:59,084  X1:231 X2:484 Y1:450 Y2:523
+- You have a son.
+- I know. I know.
+
+272
+00:20:04,972 --> 00:20:07,122  X1:252 X2:464 Y1:450 Y2:523
+- Feel better?
+- Yeah. Much.
+
+273
+00:20:08,412 --> 00:20:09,481  X1:286 X2:430 Y1:488 Y2:523
+Listen... .
+
+274
+00:20:09,932 --> 00:20:13,845  X1:137 X2:579 Y1:444 Y2:523
+Not that I'm insecure about
+my manhood or anything, but...
+
+275
+00:20:15,132 --> 00:20:17,885  X1:182 X2:537 Y1:444 Y2:523
+...I need to hook up with
+a woman right now.
+
+276
+00:20:18,412 --> 00:20:19,527  X1:258 X2:457 Y1:488 Y2:523
+I understand.
+
+277
+00:20:27,452 --> 00:20:30,012  X1:117 X2:599 Y1:054 Y2:094
+You look familiar. Do I know you?
+
+278
+00:20:30,252 --> 00:20:31,446  X1:239 X2:476 Y1:054 Y2:090
+I don't think so.
+
+279
+00:20:31,652 --> 00:20:33,961  X1:101 X2:615 Y1:054 Y2:095
+Maybe it's because I'm on television.
+
+280
+00:20:36,012 --> 00:20:39,721  X1:116 X2:599 Y1:054 Y2:133
+- I'm an actor on <i>Days of our Lives. </i>
+- Wow. Really?
+
+281
+00:20:39,932 --> 00:20:42,605  X1:212 X2:503 Y1:054 Y2:132
+- $4.50, please.
+- Oh, let me get this.
+
+282
+00:20:53,012 --> 00:20:54,331  X1:223 X2:491 Y1:054 Y2:094
+These are for you.
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

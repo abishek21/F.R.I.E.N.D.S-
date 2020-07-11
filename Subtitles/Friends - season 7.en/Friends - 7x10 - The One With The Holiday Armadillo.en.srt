@@ -1,0 +1,1518 @@
+1
+00:00:02,373 --> 00:00:03,965  X1:288 X2:428 Y1:484 Y2:524
+Bye-bye.
+
+2
+00:00:04,333 --> 00:00:06,369  X1:202 X2:515 Y1:450 Y2:524
+I just got reservations
+at Michelle's...
+
+3
+00:00:06,573 --> 00:00:08,803  X1:136 X2:582 Y1:450 Y2:524
+...and tickets to <i>The Music Man</i>
+to celebrate...
+
+4
+00:00:09,053 --> 00:00:11,328  X1:197 X2:518 Y1:446 Y2:524
+...our first holiday
+as a betrothed couple.
+
+5
+00:00:11,533 --> 00:00:14,366  X1:224 X2:491 Y1:444 Y2:524
+- "Betrothed. "
+- Betrothed couple.
+
+6
+00:00:23,093 --> 00:00:24,162  X1:291 X2:426 Y1:488 Y2:524
+Pheebs?
+
+7
+00:00:24,373 --> 00:00:25,852  X1:305 X2:412 Y1:488 Y2:524
+Skull?
+
+8
+00:00:26,053 --> 00:00:27,281  X1:204 X2:511 Y1:482 Y2:524
+Yeah, it's my mom's.
+
+9
+00:00:27,493 --> 00:00:28,972  X1:261 X2:454 Y1:484 Y2:524
+Oh, my God!
+
+10
+00:00:29,573 --> 00:00:31,564  X1:148 X2:568 Y1:482 Y2:524
+No, no, no. It's not my mom.
+
+11
+00:00:31,773 --> 00:00:34,162  X1:189 X2:527 Y1:484 Y2:524
+It belonged to my mom.
+
+12
+00:00:34,613 --> 00:00:36,843  X1:200 X2:518 Y1:446 Y2:524
+She used to put it out
+every Christmas...
+
+13
+00:00:37,053 --> 00:00:41,171  X1:133 X2:586 Y1:446 Y2:524
+...to remind us that even though
+it's Christmas, people still die.
+
+14
+00:00:42,053 --> 00:00:44,567  X1:156 X2:558 Y1:484 Y2:524
+And you can put candy in it.
+
+15
+00:00:49,013 --> 00:00:49,923  X1:287 X2:430 Y1:488 Y2:524
+Licorice?
+
+16
+00:00:51,373 --> 00:00:52,567  X1:309 X2:406 Y1:488 Y2:524
+Sure.
+
+17
+00:00:53,253 --> 00:00:56,370  X1:108 X2:607 Y1:446 Y2:524
+- I get Ben for the holidays this year.
+- That's great!
+
+18
+00:00:56,573 --> 00:00:59,041  X1:115 X2:603 Y1:446 Y2:524
+- Are you gonna dress up as Santa?
+- Nope.
+
+19
+00:00:59,293 --> 00:01:00,965  X1:143 X2:573 Y1:484 Y2:524
+I know Susan does every year.
+
+20
+00:01:01,173 --> 00:01:03,926  X1:147 X2:568 Y1:450 Y2:524
+I want to take this year
+to teach him about Hanukkah.
+
+21
+00:01:04,133 --> 00:01:05,725  X1:137 X2:578 Y1:484 Y2:524
+And maybe I could teach Ben...
+
+22
+00:01:05,933 --> 00:01:08,367  X1:165 X2:553 Y1:446 Y2:524
+...about the Christmas skull
+and how people die.
+
+23
+00:01:08,893 --> 00:01:12,363  X1:144 X2:573 Y1:450 Y2:524
+You may need to use this year
+to teach Ben about Phoebe.
+
+24
+00:01:22,933 --> 00:01:25,163  X1:137 X2:581 Y1:450 Y2:524
+- Did you know he was in there?
+- No.
+
+25
+00:01:26,613 --> 00:01:29,207  X1:135 X2:582 Y1:450 Y2:524
+- How long have we been home?
+- About half an hour.
+
+26
+00:01:29,493 --> 00:01:30,642  X1:298 X2:418 Y1:484 Y2:524
+Lovely.
+
+27
+00:01:32,333 --> 00:01:34,403  X1:107 X2:610 Y1:484 Y2:524
+The One With The Holiday Armadillo
+
+28
+00:01:34,573 --> 00:01:35,562  X1:216 X2:502 Y1:446 Y2:524
+English Subtitles by
+SDI Media Group
+
+29
+00:02:10,053 --> 00:02:12,965  X1:128 X2:586 Y1:052 Y2:131
+You know what I was thinking?
+When we get married, will you...
+
+30
+00:02:13,213 --> 00:02:14,692  X1:139 X2:580 Y1:482 Y2:524
+...change your name to "Bing"?
+
+31
+00:02:15,813 --> 00:02:16,962  X1:322 X2:394 Y1:488 Y2:524
+No.
+
+32
+00:02:18,493 --> 00:02:19,403  X1:281 X2:435 Y1:484 Y2:524
+Why not?
+
+33
+00:02:20,773 --> 00:02:22,047  X1:259 X2:457 Y1:482 Y2:524
+Bing's weird.
+
+34
+00:02:24,093 --> 00:02:25,970  X1:219 X2:496 Y1:052 Y2:093
+Oh, hey, you guys.
+
+35
+00:02:27,293 --> 00:02:30,888  X1:096 X2:619 Y1:052 Y2:131
+My landlord just called.
+My apartment's gonna be ready soon.
+
+36
+00:02:31,093 --> 00:02:32,685  X1:174 X2:542 Y1:052 Y2:094
+I guess I'll be moving out.
+
+37
+00:02:32,893 --> 00:02:34,451  X1:155 X2:561 Y1:482 Y2:524
+Phoebe, I'm gonna miss you.
+
+38
+00:02:34,653 --> 00:02:36,484  X1:174 X2:541 Y1:484 Y2:524
+Yes, you will be very sad.
+
+39
+00:02:38,053 --> 00:02:41,966  X1:097 X2:619 Y1:052 Y2:131
+- I gotta go tell Rachel the good news.
+- You'll be living together again?
+
+40
+00:02:42,173 --> 00:02:44,767  X1:086 X2:630 Y1:052 Y2:131
+- Why not?
+- She's having so much fun with Joey...
+
+41
+00:02:44,973 --> 00:02:47,168  X1:197 X2:521 Y1:052 Y2:132
+...I assumed she'd still
+be living with him.
+
+42
+00:02:47,373 --> 00:02:49,887  X1:168 X2:548 Y1:052 Y2:131
+Why do you think
+she's having so much fun?
+
+43
+00:02:50,093 --> 00:02:52,288  X1:183 X2:532 Y1:052 Y2:093
+No reason, except she...
+
+44
+00:02:52,533 --> 00:02:54,171  X1:277 X2:440 Y1:052 Y2:088
+...told me.
+
+45
+00:02:54,773 --> 00:02:56,968  X1:181 X2:537 Y1:052 Y2:127
+She said she didn't want
+to live with me?
+
+46
+00:02:57,213 --> 00:02:59,773  X1:157 X2:559 Y1:052 Y2:094
+No. No, she didn't say that.
+
+47
+00:02:59,973 --> 00:03:02,567  X1:092 X2:624 Y1:052 Y2:093
+I think you should talk to Monica now.
+
+48
+00:03:04,253 --> 00:03:06,562  X1:165 X2:549 Y1:052 Y2:132
+Phoebe, I'm sure
+she wants to live with you.
+
+49
+00:03:06,773 --> 00:03:08,206  X1:191 X2:526 Y1:482 Y2:524
+You're absolutely sure?
+
+50
+00:03:08,413 --> 00:03:10,768  X1:121 X2:595 Y1:052 Y2:094
+No, but I'll bet she probably does.
+
+51
+00:03:10,973 --> 00:03:12,042  X1:254 X2:464 Y1:484 Y2:524
+Oh, probably?
+
+52
+00:03:12,293 --> 00:03:13,521  X1:201 X2:514 Y1:488 Y2:524
+I don't like that word.
+
+53
+00:03:14,893 --> 00:03:18,203  X1:098 X2:618 Y1:444 Y2:524
+I know what "probably" really means.
+Yeah, yeah.
+
+54
+00:03:18,453 --> 00:03:21,172  X1:163 X2:553 Y1:444 Y2:524
+"Oh, your mom
+probably won't kill herself. "
+
+55
+00:03:22,733 --> 00:03:25,008  X1:133 X2:582 Y1:444 Y2:524
+I'm sorry,
+but I'm not hanging my hopes...
+
+56
+00:03:25,253 --> 00:03:27,847  X1:134 X2:586 Y1:446 Y2:524
+...of Rachel and I living together
+on "probably. "
+
+57
+00:03:28,093 --> 00:03:30,561  X1:140 X2:577 Y1:450 Y2:524
+You gotta take care of yourself
+in this world.
+
+58
+00:03:30,773 --> 00:03:32,968  X1:165 X2:550 Y1:484 Y2:524
+History teaches us nothing.
+
+59
+00:03:35,493 --> 00:03:38,087  X1:126 X2:590 Y1:450 Y2:524
+Bing doesn't seem so weird now,
+does it?
+
+60
+00:03:43,613 --> 00:03:44,523  X1:256 X2:459 Y1:488 Y2:524
+You're home.
+
+61
+00:03:44,773 --> 00:03:46,968  X1:165 X2:552 Y1:450 Y2:524
+Guess what Phoebe got me
+for Christmas?
+
+62
+00:03:55,333 --> 00:03:57,767  X1:267 X2:448 Y1:448 Y2:524
+- Drums?
+- No, drums!
+
+63
+00:04:03,573 --> 00:04:06,007  X1:167 X2:549 Y1:446 Y2:524
+Could we get
+two burritos to go, please?
+
+64
+00:04:08,533 --> 00:04:12,003  X1:149 X2:566 Y1:444 Y2:524
+I'm sorry. But not that sorry,
+you don't have to live with it.
+
+65
+00:04:12,253 --> 00:04:14,164  X1:118 X2:596 Y1:484 Y2:524
+We have a reservation under Bing.
+
+66
+00:04:14,373 --> 00:04:17,922  X1:135 X2:583 Y1:450 Y2:524
+Okay, we'll have a table for you
+in about 45 minutes.
+
+67
+00:04:18,133 --> 00:04:20,966  X1:190 X2:525 Y1:450 Y2:524
+We have tickets
+to <i>The Music Man</i> at 8.
+
+68
+00:04:21,173 --> 00:04:23,846  X1:121 X2:594 Y1:444 Y2:524
+I'm sorry.
+Christmas is a very busy time, sir.
+
+69
+00:04:24,173 --> 00:04:26,164  X1:111 X2:606 Y1:484 Y2:524
+Is this because of the burrito thing?
+
+70
+00:04:28,733 --> 00:04:31,805  X1:148 X2:567 Y1:446 Y2:524
+- You need to give him money.
+- It was a joke!
+
+71
+00:04:32,253 --> 00:04:35,563  X1:141 X2:576 Y1:446 Y2:524
+To get a table. Places like this
+are always shaking you down.
+
+72
+00:04:35,773 --> 00:04:38,970  X1:136 X2:580 Y1:446 Y2:524
+- Everybody wants a payoff.
+- All right, calm down, O'Malley.
+
+73
+00:04:41,013 --> 00:04:44,085  X1:147 X2:568 Y1:444 Y2:524
+- I'll slip him some money.
+- But you've got to be smooth.
+
+74
+00:04:44,333 --> 00:04:46,324  X1:200 X2:516 Y1:484 Y2:524
+Hey, I can be smooth.
+
+75
+00:04:50,573 --> 00:04:53,007  X1:157 X2:558 Y1:444 Y2:524
+We're in a hurry.
+If you could get us a table...
+
+76
+00:04:53,213 --> 00:04:55,124  X1:132 X2:585 Y1:482 Y2:524
+...a bit quicker, I'd appreciate it.
+
+77
+00:04:55,333 --> 00:04:57,164  X1:246 X2:470 Y1:446 Y2:524
+- Of course, sir.
+- Okay.
+
+78
+00:04:59,493 --> 00:05:02,166  X1:112 X2:603 Y1:444 Y2:524
+- How'd it go?
+- Had the money in the wrong hand.
+
+79
+00:05:08,613 --> 00:05:09,523  X1:236 X2:479 Y1:488 Y2:524
+You don't feel...
+
+80
+00:05:09,733 --> 00:05:11,564  X1:141 X2:576 Y1:450 Y2:524
+...like you're gonna throw up?
+- No.
+
+81
+00:05:11,813 --> 00:05:13,769  X1:195 X2:519 Y1:486 Y2:524
+Well, I do. So let's... .
+
+82
+00:05:15,453 --> 00:05:18,206  X1:239 X2:476 Y1:484 Y2:524
+So, Ben, you... .
+
+83
+00:05:18,453 --> 00:05:20,762  X1:095 X2:621 Y1:484 Y2:524
+You know what holiday is coming up?
+
+84
+00:05:20,973 --> 00:05:21,883  X1:275 X2:440 Y1:488 Y2:524
+Christmas.
+
+85
+00:05:22,133 --> 00:05:25,125  X1:164 X2:553 Y1:446 Y2:524
+Yeah, and you know what
+other holiday is coming up?
+
+86
+00:05:25,333 --> 00:05:26,607  X1:247 X2:468 Y1:488 Y2:524
+Christmas Eve.
+
+87
+00:05:27,893 --> 00:05:30,361  X1:238 X2:477 Y1:486 Y2:524
+Yes, but also... .
+
+88
+00:05:31,853 --> 00:05:33,286  X1:276 X2:440 Y1:488 Y2:524
+Hanukkah!
+
+89
+00:05:34,933 --> 00:05:38,050  X1:117 X2:597 Y1:444 Y2:524
+See, you're part Jewish
+and Hanukkah is a Jewish holiday.
+
+90
+00:05:38,253 --> 00:05:40,847  X1:130 X2:584 Y1:484 Y2:524
+Santa has reindeers that can fly.
+
+91
+00:05:41,093 --> 00:05:42,446  X1:180 X2:537 Y1:484 Y2:524
+Right, but on Hanukkah...
+
+92
+00:05:42,693 --> 00:05:44,763  X1:177 X2:541 Y1:450 Y2:524
+Hanukkah is a celebration
+of a miracle.
+
+93
+00:05:45,013 --> 00:05:48,642  X1:111 X2:604 Y1:446 Y2:524
+Years and years ago there were
+these people called the Maccabees.
+
+94
+00:05:50,453 --> 00:05:52,091  X1:176 X2:539 Y1:482 Y2:524
+Okay, that's right. Yes...
+
+95
+00:05:52,333 --> 00:05:54,483  X1:154 X2:562 Y1:484 Y2:524
+...but on Hanukkah, we sing:
+
+96
+00:06:00,693 --> 00:06:02,968  X1:185 X2:531 Y1:482 Y2:524
+Okay, it's not a contest.
+
+97
+00:06:03,493 --> 00:06:05,006  X1:190 X2:526 Y1:484 Y2:524
+When is Santa coming?
+
+98
+00:06:06,173 --> 00:06:09,563  X1:208 X2:509 Y1:450 Y2:524
+How about this year,
+instead of Santa...
+
+99
+00:06:09,813 --> 00:06:12,373  X1:098 X2:620 Y1:484 Y2:524
+...we have fun celebrating Hanukkah?
+
+100
+00:06:12,773 --> 00:06:14,365  X1:278 X2:440 Y1:488 Y2:524
+No Santa?
+
+101
+00:06:14,573 --> 00:06:16,052  X1:271 X2:446 Y1:488 Y2:524
+Was I bad?
+
+102
+00:06:16,373 --> 00:06:20,161  X1:153 X2:562 Y1:444 Y2:524
+No, no, no, you weren't bad.
+You've been very good, Ben.
+
+103
+00:06:20,373 --> 00:06:23,570  X1:185 X2:530 Y1:444 Y2:524
+- Santa's mad at me.
+- No, hey, hey, come on.
+
+104
+00:06:23,773 --> 00:06:26,048  X1:106 X2:611 Y1:484 Y2:524
+Ben, Santa is not mad at you, okay?
+
+105
+00:06:26,293 --> 00:06:28,284  X1:157 X2:558 Y1:482 Y2:524
+You're his favorite little guy.
+
+106
+00:06:28,493 --> 00:06:29,892  X1:214 X2:503 Y1:482 Y2:524
+So Santa's coming?
+
+107
+00:06:32,093 --> 00:06:33,572  X1:315 X2:400 Y1:488 Y2:524
+Yes!
+
+108
+00:06:33,933 --> 00:06:35,525  X1:238 X2:477 Y1:482 Y2:524
+Santa's coming.
+
+109
+00:06:39,893 --> 00:06:42,123  X1:146 X2:569 Y1:482 Y2:524
+It's easy. Just keep it casual.
+
+110
+00:06:42,333 --> 00:06:45,564  X1:078 X2:637 Y1:484 Y2:524
+Shake his hand and give him the money.
+
+111
+00:06:45,893 --> 00:06:48,726  X1:084 X2:634 Y1:450 Y2:524
+- How do you know so much about this?
+- I don't know.
+
+112
+00:06:49,413 --> 00:06:51,563  X1:133 X2:585 Y1:486 Y2:524
+Richard used to do it, didn't he?
+
+113
+00:06:52,213 --> 00:06:54,363  X1:110 X2:604 Y1:482 Y2:524
+We'd be eating our soup right now.
+
+114
+00:06:55,373 --> 00:06:57,568  X1:216 X2:500 Y1:488 Y2:524
+Mustached bastard.
+
+115
+00:06:58,933 --> 00:07:02,369  X1:125 X2:590 Y1:446 Y2:524
+Those people just left. Come on.
+Quick, give him the money.
+
+116
+00:07:03,213 --> 00:07:04,123  X1:270 X2:446 Y1:488 Y2:524
+Excuse me.
+
+117
+00:07:31,293 --> 00:07:33,249  X1:196 X2:519 Y1:484 Y2:524
+So you like the drums.
+
+118
+00:07:33,493 --> 00:07:35,290  X1:259 X2:455 Y1:482 Y2:524
+That's great.
+
+119
+00:07:36,973 --> 00:07:39,965  X1:164 X2:550 Y1:446 Y2:524
+I was worried that
+they would create maybe...
+
+120
+00:07:40,173 --> 00:07:42,289  X1:135 X2:582 Y1:484 Y2:524
+...an unbearable living situation.
+
+121
+00:07:42,533 --> 00:07:45,491  X1:138 X2:578 Y1:446 Y2:524
+But, okay, well, apparently not.
+So, yay!
+
+122
+00:07:45,973 --> 00:07:47,804  X1:134 X2:582 Y1:484 Y2:524
+Hey, we already learned a song.
+
+123
+00:07:48,053 --> 00:07:51,170  X1:144 X2:572 Y1:484 Y2:524
+Ready? One, two, three, four.
+
+124
+00:07:52,933 --> 00:07:54,764  X1:292 X2:423 Y1:484 Y2:524
+Tequila!
+
+125
+00:07:57,053 --> 00:07:58,168  X1:271 X2:443 Y1:488 Y2:524
+That's fun.
+
+126
+00:08:05,013 --> 00:08:05,968  X1:260 X2:455 Y1:484 Y2:524
+Here you go.
+
+127
+00:08:06,293 --> 00:08:08,170  X1:209 X2:506 Y1:450 Y2:524
+Thank you, Gunther.
+Put her there.
+
+128
+00:08:11,093 --> 00:08:13,561  X1:138 X2:578 Y1:484 Y2:524
+Definitely not easier with coins.
+
+129
+00:08:14,773 --> 00:08:16,126  X1:266 X2:449 Y1:446 Y2:524
+- Thank you.
+- Thank you.
+
+130
+00:08:18,853 --> 00:08:20,002  X1:259 X2:457 Y1:484 Y2:524
+Hey, Pheebs.
+
+131
+00:08:20,253 --> 00:08:22,972  X1:112 X2:604 Y1:484 Y2:524
+Here. Now I only owe you $49.50.
+
+132
+00:08:24,613 --> 00:08:25,841  X1:249 X2:467 Y1:484 Y2:524
+Hey, Pheebs...
+
+133
+00:08:26,093 --> 00:08:29,688  X1:124 X2:591 Y1:446 Y2:524
+...if you want to get Joey a gift
+that disrupts the entire building...
+
+134
+00:08:29,933 --> 00:08:31,889  X1:110 X2:607 Y1:484 Y2:524
+...why not something more subtle...
+
+135
+00:08:32,133 --> 00:08:33,361  X1:190 X2:527 Y1:484 Y2:524
+...like a wrecking ball...
+
+136
+00:08:33,573 --> 00:08:36,849  X1:177 X2:540 Y1:446 Y2:524
+...or a vial of small pox
+to release in the hallway?
+
+137
+00:08:37,093 --> 00:08:39,846  X1:162 X2:554 Y1:444 Y2:524
+It's not just the drum noise.
+Every five minutes...
+
+138
+00:08:40,093 --> 00:08:42,243  X1:184 X2:534 Y1:450 Y2:524
+...Joey throws his sticks
+in the air...
+
+139
+00:08:42,493 --> 00:08:45,291  X1:126 X2:590 Y1:446 Y2:524
+...and I have to hear:
+"Oh, my eye! Oh, God, my eye! "
+
+140
+00:08:45,533 --> 00:08:47,967  X1:177 X2:539 Y1:444 Y2:524
+- I mean, it's so annoying.
+- Yes, thank you.
+
+141
+00:08:48,213 --> 00:08:52,570  X1:114 X2:603 Y1:446 Y2:524
+You see, this is how normal people
+are supposed to react to drums.
+
+142
+00:08:53,493 --> 00:08:56,371  X1:087 X2:627 Y1:484 Y2:524
+You got Joey drums to annoy Rachel...
+
+143
+00:08:56,613 --> 00:08:58,968  X1:189 X2:531 Y1:444 Y2:524
+...so she wouldn't want
+to live there anymore?
+
+144
+00:08:59,453 --> 00:09:01,045  X1:202 X2:513 Y1:484 Y2:524
+Maybe on some level.
+
+145
+00:09:09,213 --> 00:09:12,285  X1:113 X2:603 Y1:446 Y2:524
+You could just not throw the sticks
+up in the air.
+
+146
+00:09:12,493 --> 00:09:14,404  X1:134 X2:583 Y1:488 Y2:524
+What is rock 'n' roll about that?
+
+147
+00:09:16,133 --> 00:09:19,364  X1:099 X2:617 Y1:484 Y2:524
+Hey, Joey, I got you another present.
+
+148
+00:09:20,693 --> 00:09:22,968  X1:140 X2:576 Y1:446 Y2:524
+Hold it!
+Before you tell me what it is... .
+
+149
+00:09:26,493 --> 00:09:27,812  X1:234 X2:484 Y1:484 Y2:524
+Okay, what is it?
+
+150
+00:09:28,253 --> 00:09:29,163  X1:296 X2:420 Y1:488 Y2:524
+It's a...
+
+151
+00:09:29,413 --> 00:09:30,641  X1:268 X2:448 Y1:488 Y2:524
+...tarantula!
+
+152
+00:09:36,053 --> 00:09:39,568  X1:191 X2:523 Y1:444 Y2:524
+God, Rachel, I'm sorry.
+What was I thinking...
+
+153
+00:09:39,773 --> 00:09:42,765  X1:153 X2:564 Y1:446 Y2:524
+...giving Joey this big, gross,
+scary spider...
+
+154
+00:09:43,013 --> 00:09:46,369  X1:102 X2:617 Y1:484 Y2:524
+...in such a poorly constructed cage?
+
+155
+00:09:47,053 --> 00:09:49,521  X1:159 X2:557 Y1:450 Y2:524
+What are you talking about?
+I love them.
+
+156
+00:09:51,373 --> 00:09:55,412  X1:116 X2:600 Y1:446 Y2:524
+I had a tarantula when I was a kid.
+But it died because my cat ate it.
+
+157
+00:09:55,653 --> 00:09:58,167  X1:198 X2:517 Y1:484 Y2:524
+And then my cat died.
+
+158
+00:09:58,773 --> 00:10:00,252  X1:176 X2:541 Y1:482 Y2:524
+But, Joey, isn't this cool?
+
+159
+00:10:00,453 --> 00:10:03,172  X1:159 X2:558 Y1:446 Y2:524
+Is it on me?
+I feel like it's on me. I got...
+
+160
+00:10:06,013 --> 00:10:07,492  X1:190 X2:527 Y1:486 Y2:524
+Oh, isn't that adorable?
+
+161
+00:10:07,733 --> 00:10:10,645  X1:144 X2:569 Y1:484 Y2:524
+Joey is afraid of the tarantula.
+
+162
+00:10:10,853 --> 00:10:12,206  X1:230 X2:485 Y1:488 Y2:524
+He's so adorable.
+
+163
+00:10:12,453 --> 00:10:13,602  X1:224 X2:491 Y1:488 Y2:524
+He's so much fun.
+
+164
+00:10:13,813 --> 00:10:16,327  X1:198 X2:518 Y1:450 Y2:524
+I'm glad you're having
+so much fun here.
+
+165
+00:10:16,533 --> 00:10:17,682  X1:248 X2:467 Y1:488 Y2:524
+Wait a minute.
+
+166
+00:10:17,933 --> 00:10:19,048  X1:218 X2:498 Y1:488 Y2:524
+What's the matter?
+
+167
+00:10:19,853 --> 00:10:21,286  X1:190 X2:525 Y1:484 Y2:524
+Our apartment is ready.
+
+168
+00:10:22,093 --> 00:10:25,847  X1:091 X2:625 Y1:484 Y2:524
+And that makes you angry because...?
+
+169
+00:10:26,173 --> 00:10:28,562  X1:206 X2:512 Y1:444 Y2:524
+Because you'd rather
+live here with Joey.
+
+170
+00:10:28,973 --> 00:10:31,407  X1:182 X2:536 Y1:450 Y2:524
+- Where did you get that?
+- Monica and Chandler...
+
+171
+00:10:31,653 --> 00:10:33,848  X1:192 X2:526 Y1:450 Y2:524
+...said you were having
+so much fun here...
+
+172
+00:10:34,093 --> 00:10:38,564  X1:098 X2:621 Y1:446 Y2:524
+...and apparently no amount of drums
+or tarantula is gonna change that.
+
+173
+00:10:40,453 --> 00:10:42,330  X1:113 X2:603 Y1:484 Y2:524
+Did you get all this stuff for Joey...
+
+174
+00:10:42,533 --> 00:10:44,922  X1:190 X2:529 Y1:446 Y2:524
+...to try to drive me out
+of the apartment?
+
+175
+00:10:46,173 --> 00:10:48,368  X1:193 X2:522 Y1:446 Y2:524
+You might as well
+have gotten him a fish.
+
+176
+00:10:48,613 --> 00:10:50,808  X1:125 X2:590 Y1:488 Y2:524
+You know how fish freak me out.
+
+177
+00:10:52,053 --> 00:10:53,168  X1:313 X2:402 Y1:488 Y2:524
+Fish.
+
+178
+00:10:54,573 --> 00:10:57,610  X1:145 X2:571 Y1:444 Y2:524
+But it wouldn't have mattered.
+We're gonna live together.
+
+179
+00:10:57,853 --> 00:10:59,172  X1:240 X2:474 Y1:488 Y2:524
+That's the deal.
+
+180
+00:10:59,413 --> 00:11:01,973  X1:144 X2:574 Y1:450 Y2:524
+Yes, but I wanted you to want
+to live with me.
+
+181
+00:11:02,213 --> 00:11:04,681  X1:186 X2:530 Y1:450 Y2:524
+But if you're having
+so much fun over here...
+
+182
+00:11:05,133 --> 00:11:06,930  X1:134 X2:582 Y1:482 Y2:524
+It's so much more fun with you.
+
+183
+00:11:07,133 --> 00:11:09,442  X1:154 X2:564 Y1:450 Y2:524
+- We did have fun, didn't we?
+- We did.
+
+184
+00:11:10,253 --> 00:11:12,926  X1:188 X2:526 Y1:446 Y2:524
+They say, if we want,
+we could see it tonight.
+
+185
+00:11:13,293 --> 00:11:15,170  X1:237 X2:479 Y1:446 Y2:524
+- I would love to.
+- Yay, okay!
+
+186
+00:11:15,413 --> 00:11:18,166  X1:184 X2:532 Y1:446 Y2:524
+- Good, good, good.
+- Great. All right. Good.
+
+187
+00:11:18,413 --> 00:11:21,052  X1:159 X2:555 Y1:446 Y2:524
+And Monica asked me
+to make the drumming stop.
+
+188
+00:11:26,293 --> 00:11:27,567  X1:306 X2:409 Y1:488 Y2:524
+Done.
+
+189
+00:11:34,333 --> 00:11:36,688  X1:136 X2:581 Y1:446 Y2:524
+Hello, sir.
+You here to return those pants?
+
+190
+00:11:42,893 --> 00:11:44,963  X1:187 X2:528 Y1:484 Y2:524
+No, these are my pants.
+
+191
+00:11:46,733 --> 00:11:48,166  X1:307 X2:409 Y1:484 Y2:524
+Okay.
+
+192
+00:11:48,693 --> 00:11:52,163  X1:131 X2:587 Y1:446 Y2:524
+- How can I help you?
+- Do you have a Santa outfit left?
+
+193
+00:11:52,373 --> 00:11:54,603  X1:158 X2:558 Y1:446 Y2:524
+Two days before Christmas?
+Sorry, man.
+
+194
+00:11:54,813 --> 00:11:58,362  X1:114 X2:604 Y1:446 Y2:524
+Okay, look.
+Do you have anything Christmas-y?
+
+195
+00:11:58,573 --> 00:12:02,043  X1:143 X2:576 Y1:446 Y2:524
+I promised my son, and I really
+don't want to disappoint him.
+
+196
+00:12:02,293 --> 00:12:05,171  X1:103 X2:613 Y1:484 Y2:524
+Come on, you gotta have something.
+
+197
+00:12:05,853 --> 00:12:08,606  X1:175 X2:540 Y1:482 Y2:524
+I'm the Holiday Armadillo!
+
+198
+00:12:10,853 --> 00:12:12,650  X1:182 X2:533 Y1:488 Y2:524
+I'm a friend of Santa's...
+
+199
+00:12:12,893 --> 00:12:15,566  X1:100 X2:616 Y1:484 Y2:524
+...and he sent me here to wish you...
+
+200
+00:12:15,813 --> 00:12:18,771  X1:207 X2:509 Y1:484 Y2:524
+...a merry Christmas!
+
+201
+00:12:19,493 --> 00:12:22,883  X1:177 X2:539 Y1:446 Y2:524
+What happened to Santa,
+Holiday Armadillo?
+
+202
+00:12:24,053 --> 00:12:26,362  X1:183 X2:531 Y1:488 Y2:524
+Santa was unavailable...
+
+203
+00:12:26,573 --> 00:12:29,371  X1:185 X2:532 Y1:488 Y2:524
+...so close to Christmas.
+
+204
+00:12:30,373 --> 00:12:31,806  X1:201 X2:514 Y1:486 Y2:524
+Come in, have a seat.
+
+205
+00:12:32,053 --> 00:12:35,762  X1:138 X2:577 Y1:446 Y2:524
+You must be exhausted,
+coming all the way from Texas.
+
+206
+00:12:38,773 --> 00:12:40,968  X1:225 X2:491 Y1:446 Y2:524
+- Texas?
+- That's right, Ben.
+
+207
+00:12:41,173 --> 00:12:42,845  X1:158 X2:557 Y1:482 Y2:524
+I'm Santa's representative...
+
+208
+00:12:43,093 --> 00:12:46,768  X1:155 X2:562 Y1:488 Y2:524
+...for all the Southern states.
+
+209
+00:12:46,973 --> 00:12:49,965  X1:261 X2:453 Y1:488 Y2:524
+And Mexico!
+
+210
+00:12:51,493 --> 00:12:52,972  X1:176 X2:539 Y1:488 Y2:524
+But Santa sent me here...
+
+211
+00:12:53,213 --> 00:12:56,649  X1:118 X2:598 Y1:484 Y2:524
+...to give you these presents, Ben.
+
+212
+00:12:56,893 --> 00:12:59,965  X1:162 X2:556 Y1:446 Y2:524
+Maybe the lady will help me
+with these presents.
+
+213
+00:13:14,853 --> 00:13:15,968  X1:252 X2:462 Y1:486 Y2:524
+Wow, thanks!
+
+214
+00:13:16,213 --> 00:13:17,532  X1:200 X2:515 Y1:486 Y2:524
+You're welcome, Ben.
+
+215
+00:13:17,733 --> 00:13:19,963  X1:233 X2:482 Y1:484 Y2:524
+Merry Christmas.
+
+216
+00:13:20,733 --> 00:13:23,964  X1:200 X2:515 Y1:484 Y2:524
+And happy Hanukkah!
+
+217
+00:13:25,253 --> 00:13:28,370  X1:168 X2:549 Y1:446 Y2:524
+Are you for Hanukkah too?
+Because I'm part Jewish.
+
+218
+00:13:28,773 --> 00:13:31,765  X1:226 X2:489 Y1:488 Y2:524
+You are? Me too.
+
+219
+00:13:32,493 --> 00:13:36,372  X1:155 X2:561 Y1:450 Y2:524
+Because armadillos
+also wandered in the desert?
+
+220
+00:13:38,253 --> 00:13:40,403  X1:134 X2:582 Y1:488 Y2:524
+You want to wander in the hall?
+
+221
+00:13:42,293 --> 00:13:44,170  X1:281 X2:435 Y1:484 Y2:524
+Hey, Ben!
+
+222
+00:13:44,373 --> 00:13:46,443  X1:137 X2:577 Y1:484 Y2:524
+What if the Holiday Armadillo...
+
+223
+00:13:46,693 --> 00:13:50,049  X1:200 X2:517 Y1:446 Y2:524
+...told you all about
+the Festival of Lights?
+
+224
+00:13:50,253 --> 00:13:51,208  X1:310 X2:405 Y1:488 Y2:524
+Cool!
+
+225
+00:13:51,453 --> 00:13:52,966  X1:248 X2:468 Y1:486 Y2:524
+Come on, Ben.
+
+226
+00:13:56,133 --> 00:13:58,408  X1:196 X2:519 Y1:484 Y2:524
+Years and years ago...
+
+227
+00:13:58,653 --> 00:14:00,769  X1:116 X2:601 Y1:484 Y2:524
+...there were these people called...
+
+228
+00:14:01,013 --> 00:14:03,004  X1:222 X2:494 Y1:448 Y2:524
+...the Maccabees!
+- Ho, ho, ho!
+
+229
+00:14:03,253 --> 00:14:05,926  X1:233 X2:482 Y1:484 Y2:524
+Merry Christmas!
+
+230
+00:14:07,693 --> 00:14:09,365  X1:301 X2:413 Y1:488 Y2:524
+Santa!
+
+231
+00:14:11,133 --> 00:14:13,806  X1:128 X2:588 Y1:484 Y2:524
+What are you doing here, Santa?
+
+232
+00:14:15,893 --> 00:14:18,361  X1:207 X2:510 Y1:444 Y2:524
+Well, I'm here to see
+my old buddy, Ben.
+
+233
+00:14:19,093 --> 00:14:20,685  X1:167 X2:547 Y1:484 Y2:524
+What are you doing here...
+
+234
+00:14:20,933 --> 00:14:24,562  X1:211 X2:508 Y1:488 Y2:524
+...Weird Turtle Man?
+
+235
+00:14:26,373 --> 00:14:29,092  X1:165 X2:550 Y1:482 Y2:524
+I'm the Holiday Armadillo...
+
+236
+00:14:29,333 --> 00:14:32,484  X1:174 X2:542 Y1:484 Y2:524
+...your part-Jewish friend.
+
+237
+00:14:33,973 --> 00:14:37,568  X1:166 X2:549 Y1:446 Y2:524
+You sent me here
+to give Ben some presents.
+
+238
+00:14:37,773 --> 00:14:39,570  X1:270 X2:448 Y1:488 Y2:524
+Remember?
+
+239
+00:14:40,973 --> 00:14:41,883  X1:302 X2:414 Y1:488 Y2:524
+What?
+
+240
+00:14:44,733 --> 00:14:46,849  X1:091 X2:626 Y1:484 Y2:524
+Did you bring me any presents, Santa?
+
+241
+00:14:47,053 --> 00:14:48,611  X1:220 X2:494 Y1:486 Y2:524
+You bet I did, Ben.
+
+242
+00:14:48,813 --> 00:14:50,769  X1:255 X2:461 Y1:488 Y2:524
+Put her there.
+
+243
+00:14:55,093 --> 00:14:59,769  X1:104 X2:613 Y1:450 Y2:524
+Well, it would have worked this time
+if his hands weren't so damn small.
+
+244
+00:15:02,253 --> 00:15:04,892  X1:270 X2:446 Y1:486 Y2:524
+Ho, ho, ho!
+
+245
+00:15:05,133 --> 00:15:06,691  X1:164 X2:552 Y1:484 Y2:524
+Ben, come open more gifts.
+
+246
+00:15:06,933 --> 00:15:09,606  X1:146 X2:569 Y1:450 Y2:524
+The armadillo and I
+will have a talk in the kitchen.
+
+247
+00:15:10,453 --> 00:15:12,762  X1:191 X2:525 Y1:444 Y2:524
+There's a sentence
+I never thought I'd say.
+
+248
+00:15:14,573 --> 00:15:15,801  X1:208 X2:508 Y1:484 Y2:524
+What are you doing?
+
+249
+00:15:16,013 --> 00:15:19,210  X1:125 X2:592 Y1:446 Y2:524
+You said you were having trouble
+finding a Santa costume...
+
+250
+00:15:19,453 --> 00:15:21,683  X1:212 X2:507 Y1:446 Y2:524
+...so I borrowed one
+from a guy at work.
+
+251
+00:15:21,893 --> 00:15:24,282  X1:134 X2:581 Y1:484 Y2:524
+Thank you, but you gotta leave.
+
+252
+00:15:24,573 --> 00:15:25,892  X1:271 X2:445 Y1:450 Y2:524
+- Why?
+- Because...
+
+253
+00:15:26,093 --> 00:15:28,766  X1:137 X2:581 Y1:450 Y2:524
+...I'm finally getting him excited
+about Hanukkah...
+
+254
+00:15:28,973 --> 00:15:30,292  X1:179 X2:538 Y1:482 Y2:524
+...and you're wrecking it.
+
+255
+00:15:30,533 --> 00:15:34,367  X1:126 X2:592 Y1:444 Y2:524
+But I didn't get to shake my belly
+like a bowlful of jelly.
+
+256
+00:15:37,453 --> 00:15:41,048  X1:126 X2:589 Y1:444 Y2:524
+I'm sorry, Chandler,
+but this is really important to me.
+
+257
+00:15:42,013 --> 00:15:45,164  X1:166 X2:550 Y1:482 Y2:524
+Fine, I'll give the suit back.
+
+258
+00:15:45,693 --> 00:15:49,163  X1:144 X2:575 Y1:446 Y2:524
+Hey, you think you can keep it
+another night?
+
+259
+00:15:51,453 --> 00:15:53,205  X1:255 X2:462 Y1:484 Y2:524
+Santa, really?
+
+260
+00:15:53,853 --> 00:15:55,081  X1:218 X2:499 Y1:484 Y2:524
+Yeah, is that okay?
+
+261
+00:15:55,773 --> 00:15:58,810  X1:092 X2:625 Y1:484 Y2:524
+Did your dad ever dress up like Santa?
+
+262
+00:16:00,013 --> 00:16:03,164  X1:241 X2:474 Y1:446 Y2:524
+- No.
+- Then it's okay!
+
+263
+00:16:04,493 --> 00:16:06,484  X1:154 X2:561 Y1:484 Y2:524
+Okay, Ben. Santa has to go.
+
+264
+00:16:06,733 --> 00:16:08,166  X1:254 X2:460 Y1:484 Y2:524
+Say goodbye.
+
+265
+00:16:08,373 --> 00:16:10,841  X1:152 X2:565 Y1:484 Y2:524
+No, why does he have to go?
+
+266
+00:16:11,213 --> 00:16:15,172  X1:114 X2:602 Y1:484 Y2:524
+Because if Santa and the Holiday...
+
+267
+00:16:15,573 --> 00:16:17,211  X1:255 X2:462 Y1:488 Y2:524
+...Armadillo...
+
+268
+00:16:19,293 --> 00:16:21,568  X1:160 X2:559 Y1:446 Y2:524
+...are ever in the same room
+for too long...
+
+269
+00:16:21,813 --> 00:16:24,771  X1:164 X2:553 Y1:484 Y2:524
+...the universe will implode!
+
+270
+00:16:26,333 --> 00:16:28,563  X1:233 X2:482 Y1:484 Y2:524
+Merry Christmas!
+
+271
+00:16:29,973 --> 00:16:33,602  X1:118 X2:600 Y1:450 Y2:524
+No, why can't the armadillo leave?
+I want Santa.
+
+272
+00:16:35,933 --> 00:16:37,571  X1:189 X2:528 Y1:484 Y2:524
+Fine, I give up. Santa...
+
+273
+00:16:37,813 --> 00:16:40,202  X1:241 X2:473 Y1:484 Y2:524
+Santa can stay!
+
+274
+00:16:42,093 --> 00:16:43,048  X1:242 X2:472 Y1:482 Y2:524
+Well, I'll stay...
+
+275
+00:16:43,293 --> 00:16:46,649  X1:122 X2:597 Y1:450 Y2:524
+...but only because I want to hear
+about Hanukkah.
+
+276
+00:16:47,573 --> 00:16:49,882  X1:116 X2:599 Y1:484 Y2:524
+Ben, will you sit here with Santa...
+
+277
+00:16:50,133 --> 00:16:52,169  X1:153 X2:565 Y1:488 Y2:524
+...and learn about Hanukkah?
+
+278
+00:16:52,373 --> 00:16:54,364  X1:260 X2:456 Y1:484 Y2:524
+Okay, Santa.
+
+279
+00:16:55,333 --> 00:16:56,812  X1:230 X2:486 Y1:450 Y2:524
+- Thank you.
+- You're welcome.
+
+280
+00:16:57,053 --> 00:16:59,009  X1:214 X2:501 Y1:482 Y2:524
+All right, it's time...
+
+281
+00:16:59,253 --> 00:17:02,370  X1:158 X2:559 Y1:484 Y2:524
+...for the story of Hanukkah.
+
+282
+00:17:02,973 --> 00:17:04,611  X1:196 X2:519 Y1:484 Y2:524
+Years and years ago...
+
+283
+00:17:04,853 --> 00:17:08,448  X1:173 X2:545 Y1:450 Y2:524
+...there were these people
+called the Maccabees!
+
+284
+00:17:09,053 --> 00:17:11,009  X1:233 X2:482 Y1:484 Y2:524
+Merry Christmas!
+
+285
+00:17:20,013 --> 00:17:23,767  X1:158 X2:557 Y1:484 Y2:524
+Oh, wow, look at this place!
+
+286
+00:17:25,933 --> 00:17:27,969  X1:222 X2:493 Y1:486 Y2:524
+Oh, this is terrible.
+
+287
+00:17:28,173 --> 00:17:29,811  X1:119 X2:595 Y1:482 Y2:524
+They've made so many changes...
+
+288
+00:17:30,013 --> 00:17:32,971  X1:099 X2:617 Y1:444 Y2:524
+...I can't even feel
+my grandmother's presence anymore.
+
+289
+00:17:33,533 --> 00:17:35,569  X1:227 X2:489 Y1:486 Y2:524
+Oh, new sconces!
+
+290
+00:17:36,533 --> 00:17:38,171  X1:256 X2:459 Y1:450 Y2:524
+- Oh, my God!
+- What?
+
+291
+00:17:38,853 --> 00:17:42,289  X1:105 X2:610 Y1:446 Y2:524
+Remember how you told me
+your grandmother put up that wall...
+
+292
+00:17:42,533 --> 00:17:44,603  X1:108 X2:610 Y1:450 Y2:524
+...to make that into two bedrooms?
+- Yeah.
+
+293
+00:17:44,853 --> 00:17:47,003  X1:205 X2:511 Y1:446 Y2:524
+And that the landlord
+might find out...
+
+294
+00:17:47,253 --> 00:17:49,244  X1:176 X2:541 Y1:450 Y2:524
+...and then tear it down?
+- Yeah?
+
+295
+00:17:50,093 --> 00:17:52,129  X1:193 X2:525 Y1:446 Y2:524
+Do you really not know
+where I'm going?
+
+296
+00:17:53,773 --> 00:17:55,411  X1:166 X2:550 Y1:482 Y2:524
+It left. It's one huge room.
+
+297
+00:17:55,653 --> 00:17:57,564  X1:295 X2:420 Y1:486 Y2:524
+Oh, no!
+
+298
+00:17:59,533 --> 00:18:01,569  X1:305 X2:409 Y1:488 Y2:524
+Wow!
+
+299
+00:18:02,493 --> 00:18:03,482  X1:312 X2:404 Y1:488 Y2:524
+See?
+
+300
+00:18:04,013 --> 00:18:06,243  X1:205 X2:510 Y1:444 Y2:524
+I guess we'll have to
+put the wall back up.
+
+301
+00:18:06,453 --> 00:18:10,571  X1:121 X2:595 Y1:444 Y2:524
+- You can't, with the new skylight.
+- There's a skylight?
+
+302
+00:18:11,093 --> 00:18:12,970  X1:305 X2:409 Y1:488 Y2:524
+Wow!
+
+303
+00:18:13,453 --> 00:18:16,445  X1:169 X2:547 Y1:446 Y2:524
+So should we start looking
+for a new place?
+
+304
+00:18:20,013 --> 00:18:21,241  X1:179 X2:536 Y1:482 Y2:524
+You know, I'm sensing...
+
+305
+00:18:21,493 --> 00:18:25,202  X1:108 X2:607 Y1:450 Y2:524
+...that my grandmother
+would not be comfortable with that.
+
+306
+00:18:26,973 --> 00:18:28,088  X1:279 X2:439 Y1:484 Y2:524
+Oh, yeah?
+
+307
+00:18:28,333 --> 00:18:30,847  X1:138 X2:578 Y1:450 Y2:524
+Starting to feel her again there,
+are we?
+
+308
+00:18:31,773 --> 00:18:33,365  X1:223 X2:493 Y1:450 Y2:524
+- A little bit. Yeah.
+- Yeah.
+
+309
+00:18:34,613 --> 00:18:38,322  X1:120 X2:597 Y1:446 Y2:524
+Is your grandmother maybe saying
+that you should live here alone?
+
+310
+00:18:38,533 --> 00:18:40,649  X1:103 X2:611 Y1:484 Y2:524
+You heard it too? You have the gift.
+
+311
+00:18:42,533 --> 00:18:44,364  X1:226 X2:489 Y1:482 Y2:524
+Phoebe, it's okay.
+
+312
+00:18:44,573 --> 00:18:46,370  X1:201 X2:515 Y1:484 Y2:524
+I like living with Joey.
+
+313
+00:18:46,773 --> 00:18:48,968  X1:176 X2:539 Y1:446 Y2:524
+- Are you sure?
+- Please. I hate packing...
+
+314
+00:18:49,173 --> 00:18:50,492  X1:206 X2:510 Y1:488 Y2:524
+...it's closer to work.
+
+315
+00:18:50,853 --> 00:18:52,571  X1:206 X2:509 Y1:488 Y2:524
+And we do have fun.
+
+316
+00:18:53,853 --> 00:18:57,084  X1:136 X2:580 Y1:444 Y2:524
+Although, I'm really gonna miss
+living with you.
+
+317
+00:18:57,413 --> 00:18:59,768  X1:261 X2:454 Y1:450 Y2:524
+- Oh, me too.
+- I know.
+
+318
+00:19:01,333 --> 00:19:02,561  X1:224 X2:493 Y1:484 Y2:524
+Did you hear that?
+
+319
+00:19:02,813 --> 00:19:05,281  X1:189 X2:526 Y1:444 Y2:524
+I'm getting something
+from your grandmother.
+
+320
+00:19:05,573 --> 00:19:09,009  X1:142 X2:575 Y1:446 Y2:524
+She said since you get to keep
+the one-bedroom apartment...
+
+321
+00:19:09,213 --> 00:19:12,250  X1:180 X2:538 Y1:446 Y2:524
+...you should give Rachel
+the purple chair.
+
+322
+00:19:14,813 --> 00:19:16,565  X1:197 X2:518 Y1:486 Y2:524
+No, I do not hear that.
+
+323
+00:19:18,293 --> 00:19:21,205  X1:179 X2:538 Y1:450 Y2:524
+And the miracle was that
+that little bit of oil...
+
+324
+00:19:21,413 --> 00:19:25,088  X1:164 X2:549 Y1:446 Y2:524
+...that should have lasted
+just one day, burned for... .
+
+325
+00:19:25,293 --> 00:19:27,124  X1:223 X2:492 Y1:446 Y2:524
+- Eight whole days.
+- That's right.
+
+326
+00:19:27,333 --> 00:19:31,087  X1:155 X2:562 Y1:444 Y2:524
+And that's why we celebrate
+Hanukkah today. The end.
+
+327
+00:19:31,333 --> 00:19:33,164  X1:271 X2:444 Y1:450 Y2:524
+- Awesome.
+- Yeah.
+
+328
+00:19:33,573 --> 00:19:34,642  X1:225 X2:490 Y1:484 Y2:524
+My favorite part...
+
+329
+00:19:34,893 --> 00:19:38,966  X1:142 X2:573 Y1:446 Y2:524
+...was when Superman
+flew all the Jews out of Egypt.
+
+330
+00:19:42,733 --> 00:19:46,487  X1:147 X2:569 Y1:446 Y2:524
+The armadillo was actually
+not so thrilled about that part.
+
+331
+00:19:48,213 --> 00:19:50,568  X1:149 X2:567 Y1:482 Y2:524
+Okay, Ben, it's time to light...
+
+332
+00:19:50,773 --> 00:19:53,606  X1:182 X2:534 Y1:488 Y2:524
+...the Hanukkah candles!
+
+333
+00:20:03,893 --> 00:20:07,772  X1:103 X2:614 Y1:450 Y2:524
+Wow! Looks like the Easter Bunny's
+funeral in here.
+
+334
+00:20:10,253 --> 00:20:12,972  X1:168 X2:547 Y1:446 Y2:524
+Come on, come on.
+We're lighting the candles.
+
+335
+00:20:17,573 --> 00:20:19,370  X1:098 X2:617 Y1:484 Y2:524
+I understand why Superman is here...
+
+336
+00:20:19,613 --> 00:20:22,969  X1:143 X2:576 Y1:446 Y2:524
+...but why is there a porcupine
+at the Easter Bunny's funeral?
+
+337
+00:20:30,693 --> 00:20:32,888  X1:268 X2:449 Y1:052 Y2:131
+- You get it?
+- I got it.
+
+338
+00:20:33,133 --> 00:20:34,771  X1:229 X2:489 Y1:052 Y2:093
+Back in the cage?
+
+339
+00:20:35,973 --> 00:20:37,850  X1:205 X2:510 Y1:052 Y2:094
+It's back in the cage.
+
+340
+00:20:38,253 --> 00:20:39,811  X1:219 X2:499 Y1:052 Y2:093
+Is the cage closed?
+
+341
+00:20:41,613 --> 00:20:45,162  X1:124 X2:591 Y1:052 Y2:131
+Joey, will you just come out here
+and stop being such a baby!
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

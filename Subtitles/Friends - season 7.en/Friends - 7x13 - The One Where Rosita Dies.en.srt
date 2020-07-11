@@ -1,0 +1,1513 @@
+1
+00:00:04,692 --> 00:00:05,920  X1:310 X2:406 Y1:450 Y2:524
+- Hey.
+- Hi.
+
+2
+00:00:06,132 --> 00:00:10,125  X1:104 X2:612 Y1:446 Y2:524
+- What are you doing?
+- I was thinking of moving the couch.
+
+3
+00:00:10,332 --> 00:00:11,651  X1:128 X2:588 Y1:484 Y2:524
+Why would you want to do that?
+
+4
+00:00:11,852 --> 00:00:14,161  X1:155 X2:562 Y1:450 Y2:524
+So there'd be a decent place
+for me to sit?
+
+5
+00:00:15,532 --> 00:00:19,491  X1:144 X2:572 Y1:446 Y2:524
+- Rach, there is a decent place.
+- And your lap does not count.
+
+6
+00:00:21,292 --> 00:00:23,852  X1:148 X2:568 Y1:448 Y2:524
+- Come on, help me move this.
+- No, no, no.
+
+7
+00:00:24,252 --> 00:00:25,321  X1:315 X2:403 Y1:450 Y2:524
+- No?
+- No.
+
+8
+00:00:25,532 --> 00:00:27,170  X1:198 X2:517 Y1:488 Y2:524
+Rosita does not move.
+
+9
+00:00:29,932 --> 00:00:32,446  X1:164 X2:554 Y1:482 Y2:524
+I'm sorry. Rosita? As in...?
+
+10
+00:00:32,652 --> 00:00:34,882  X1:145 X2:570 Y1:488 Y2:524
+As in "Rosita does not move. "
+
+11
+00:00:35,132 --> 00:00:37,168  X1:209 X2:508 Y1:444 Y2:524
+It's just a chair.
+What's the big deal?
+
+12
+00:00:37,372 --> 00:00:40,682  X1:112 X2:603 Y1:450 Y2:524
+It's the exact equal distance
+from the bathroom to the kitchen...
+
+13
+00:00:40,932 --> 00:00:45,801  X1:095 X2:620 Y1:444 Y2:524
+...and it's at an angle where you
+don't get any glare coming off Stevie.
+
+14
+00:00:46,452 --> 00:00:48,170  X1:248 X2:469 Y1:488 Y2:524
+Stevie the TV?
+
+15
+00:00:50,452 --> 00:00:52,249  X1:214 X2:503 Y1:450 Y2:524
+- Is there a problem?
+- No.
+
+16
+00:00:55,452 --> 00:00:56,646  X1:206 X2:510 Y1:488 Y2:524
+What does he know?
+
+17
+00:00:56,892 --> 00:00:59,929  X1:144 X2:572 Y1:446 Y2:524
+Come on, Rosita.
+Us <i>chicas</i> gotta stick together.
+
+18
+00:01:08,332 --> 00:01:10,641  X1:276 X2:438 Y1:488 Y2:524
+You bitch!
+
+19
+00:01:12,492 --> 00:01:14,562  X1:165 X2:552 Y1:488 Y2:524
+The One Where Rosita Dies
+
+20
+00:01:14,732 --> 00:01:15,721  X1:216 X2:502 Y1:446 Y2:524
+English Subtitles by
+SDI Media Group
+
+21
+00:01:48,252 --> 00:01:49,207  X1:272 X2:446 Y1:484 Y2:524
+Hey, Ross?
+
+22
+00:01:49,452 --> 00:01:51,761  X1:127 X2:589 Y1:052 Y2:088
+I checked the real estate section.
+
+23
+00:01:52,532 --> 00:01:53,647  X1:262 X2:453 Y1:488 Y2:524
+Look at this.
+
+24
+00:01:53,852 --> 00:01:55,524  X1:124 X2:592 Y1:052 Y2:089
+Looks like Mom and Dad's house.
+
+25
+00:01:55,772 --> 00:01:59,003  X1:155 X2:559 Y1:052 Y2:126
+Even has a tree
+with a broken limb out front.
+
+26
+00:01:59,252 --> 00:02:02,927  X1:141 X2:574 Y1:052 Y2:088
+And the window in the attic... .
+
+27
+00:02:03,172 --> 00:02:05,288  X1:261 X2:454 Y1:052 Y2:093
+Oh, my God!
+
+28
+00:02:05,732 --> 00:02:08,610  X1:167 X2:550 Y1:052 Y2:126
+What happened
+to the window in the attic?
+
+29
+00:02:09,292 --> 00:02:13,080  X1:132 X2:583 Y1:052 Y2:132
+- I can't believe they're selling it.
+- And they didn't tell us.
+
+30
+00:02:13,292 --> 00:02:15,760  X1:167 X2:550 Y1:052 Y2:126
+What happened
+to the window in the attic?
+
+31
+00:02:17,852 --> 00:02:19,649  X1:151 X2:567 Y1:052 Y2:094
+I'll buy you a new one, okay?
+
+32
+00:02:19,892 --> 00:02:23,168  X1:126 X2:591 Y1:052 Y2:132
+We'll go to the store and get you
+a new chair right now.
+
+33
+00:02:26,252 --> 00:02:28,766  X1:183 X2:531 Y1:482 Y2:524
+She's not even cold yet.
+
+34
+00:02:30,372 --> 00:02:33,364  X1:182 X2:535 Y1:052 Y2:132
+Wouldn't Rosita have
+wanted you to move on?
+
+35
+00:02:33,612 --> 00:02:37,890  X1:121 X2:597 Y1:052 Y2:131
+I mean, you know, she did always
+put your comfort first.
+
+36
+00:02:40,012 --> 00:02:41,365  X1:267 X2:448 Y1:052 Y2:089
+That's true.
+
+37
+00:02:45,612 --> 00:02:49,287  X1:088 X2:630 Y1:444 Y2:524
+I can't believe we have to say goodbye
+to the house we grew up in.
+
+38
+00:02:49,492 --> 00:02:52,245  X1:138 X2:580 Y1:444 Y2:524
+Man, some stranger's gonna be
+in my room.
+
+39
+00:02:52,532 --> 00:02:55,251  X1:183 X2:536 Y1:446 Y2:524
+For 15 years they kept it
+as a shrine to you.
+
+40
+00:02:55,452 --> 00:02:57,841  X1:097 X2:619 Y1:482 Y2:524
+It's time the velvet ropes came down.
+
+41
+00:02:59,012 --> 00:03:00,445  X1:151 X2:563 Y1:484 Y2:524
+They kept your room a while.
+
+42
+00:03:00,652 --> 00:03:05,043  X1:104 X2:611 Y1:446 Y2:524
+Please! Dad turned my room into
+a gym 20 minutes after I moved out.
+
+43
+00:03:05,292 --> 00:03:09,251  X1:095 X2:622 Y1:446 Y2:524
+I gotta say, a tanning bed and a stack
+of Victoria's Secret catalogs?
+
+44
+00:03:09,452 --> 00:03:10,771  X1:272 X2:443 Y1:484 Y2:524
+Not a gym.
+
+45
+00:03:11,532 --> 00:03:14,842  X1:104 X2:612 Y1:446 Y2:524
+- Come on. You know they love you.
+- As much as they love you?
+
+46
+00:03:15,052 --> 00:03:18,965  X1:117 X2:598 Y1:446 Y2:524
+They thought she was barren
+until I was born. It's not my fault.
+
+47
+00:03:22,132 --> 00:03:23,850  X1:241 X2:474 Y1:484 Y2:524
+I hate this year.
+
+48
+00:03:24,052 --> 00:03:25,644  X1:151 X2:566 Y1:482 Y2:524
+What's wrong with this year?
+
+49
+00:03:25,852 --> 00:03:29,003  X1:173 X2:546 Y1:444 Y2:524
+It's February and I've only
+given two massages...
+
+50
+00:03:29,212 --> 00:03:31,442  X1:096 X2:621 Y1:484 Y2:524
+...and they were both horrible tippers.
+
+51
+00:03:31,652 --> 00:03:32,926  X1:190 X2:525 Y1:488 Y2:524
+That was me and Ross.
+
+52
+00:03:34,892 --> 00:03:37,008  X1:239 X2:476 Y1:482 Y2:524
+Oh, that's right.
+
+53
+00:03:37,652 --> 00:03:39,051  X1:143 X2:572 Y1:484 Y2:524
+If you want some extra cash...
+
+54
+00:03:39,292 --> 00:03:42,682  X1:126 X2:588 Y1:446 Y2:524
+...some college friends made
+good money doing telemarketing.
+
+55
+00:03:43,172 --> 00:03:45,925  X1:172 X2:547 Y1:444 Y2:524
+It'd be better than the last
+telephone job I had.
+
+56
+00:03:46,172 --> 00:03:48,925  X1:157 X2:562 Y1:444 Y2:524
+I probably won't have to say
+"spank" as much.
+
+57
+00:03:52,212 --> 00:03:53,531  X1:302 X2:414 Y1:488 Y2:524
+What?
+
+58
+00:03:54,092 --> 00:03:56,652  X1:137 X2:578 Y1:484 Y2:524
+Oh, yeah, like you never called.
+
+59
+00:04:03,012 --> 00:04:05,845  X1:169 X2:545 Y1:446 Y2:524
+This is very easy.
+You read from the script...
+
+60
+00:04:06,092 --> 00:04:08,606  X1:180 X2:538 Y1:446 Y2:524
+...and try to sell as much
+toner as you can.
+
+61
+00:04:08,812 --> 00:04:10,404  X1:213 X2:502 Y1:484 Y2:524
+Okay, I can do that.
+
+62
+00:04:10,652 --> 00:04:13,803  X1:155 X2:560 Y1:484 Y2:524
+By the way, I love my office.
+
+63
+00:04:14,052 --> 00:04:17,010  X1:151 X2:566 Y1:444 Y2:524
+- Why don't we do a trial run?
+- Oh, okay.
+
+64
+00:04:19,132 --> 00:04:20,406  X1:287 X2:428 Y1:484 Y2:524
+All right.
+
+65
+00:04:20,852 --> 00:04:23,412  X1:157 X2:557 Y1:446 Y2:524
+Hi, this is Phoebe
+from Empire Office Supplies.
+
+66
+00:04:23,652 --> 00:04:27,486  X1:097 X2:620 Y1:446 Y2:524
+- Can I speak to your supply manager?
+- I'm the supply manager.
+
+67
+00:04:27,772 --> 00:04:29,922  X1:187 X2:528 Y1:444 Y2:524
+I'd like to talk
+about your toner needs.
+
+68
+00:04:30,132 --> 00:04:31,008  X1:214 X2:500 Y1:482 Y2:524
+We don't need any.
+
+69
+00:04:31,212 --> 00:04:33,203  X1:105 X2:611 Y1:484 Y2:524
+Okay, sorry to bother you. Bye-bye.
+
+70
+00:04:34,292 --> 00:04:35,566  X1:129 X2:586 Y1:482 Y2:524
+Yeah, you're right. This is easy.
+
+71
+00:04:35,812 --> 00:04:38,645  X1:089 X2:629 Y1:484 Y2:524
+Okay. What was wrong with that call?
+
+72
+00:04:38,852 --> 00:04:40,171  X1:226 X2:489 Y1:484 Y2:524
+Oh, well, all right.
+
+73
+00:04:40,412 --> 00:04:43,688  X1:170 X2:546 Y1:446 Y2:524
+No offense,
+but you were kind of rude.
+
+74
+00:04:45,132 --> 00:04:47,885  X1:138 X2:576 Y1:446 Y2:524
+They always say they
+don't need toner. That's okay.
+
+75
+00:04:48,132 --> 00:04:52,489  X1:105 X2:611 Y1:446 Y2:524
+Whatever they say, you can find the
+answer to it, here in the script.
+
+76
+00:04:52,772 --> 00:04:55,081  X1:106 X2:609 Y1:482 Y2:524
+So I think you're ready to sell toner.
+
+77
+00:04:55,292 --> 00:04:57,283  X1:128 X2:590 Y1:450 Y2:524
+- Do you have any last questions?
+- No.
+
+78
+00:04:57,532 --> 00:04:59,727  X1:118 X2:597 Y1:484 Y2:524
+Wait, yes, I do have one question:
+
+79
+00:04:59,972 --> 00:05:01,451  X1:248 X2:468 Y1:488 Y2:524
+What is toner?
+
+80
+00:05:04,452 --> 00:05:05,885  X1:305 X2:411 Y1:484 Y2:524
+Joey?
+
+81
+00:05:07,732 --> 00:05:08,881  X1:312 X2:403 Y1:488 Y2:524
+Joe?
+
+82
+00:05:13,172 --> 00:05:14,890  X1:286 X2:431 Y1:484 Y2:524
+Full bag?
+
+83
+00:05:16,452 --> 00:05:18,682  X1:239 X2:476 Y1:488 Y2:524
+Beer's still cold.
+
+84
+00:05:20,372 --> 00:05:23,330  X1:172 X2:544 Y1:446 Y2:524
+Something terrible
+must have happened here.
+
+85
+00:05:31,372 --> 00:05:33,203  X1:243 X2:472 Y1:486 Y2:524
+Oh, no, no, no!
+
+86
+00:05:35,932 --> 00:05:38,492  X1:180 X2:535 Y1:486 Y2:524
+Stevie, I was never here.
+
+87
+00:05:42,332 --> 00:05:44,800  X1:281 X2:435 Y1:450 Y2:524
+- Dad?
+- I'm here!
+
+88
+00:05:45,412 --> 00:05:46,891  X1:310 X2:406 Y1:450 Y2:524
+- Hey.
+- Hi.
+
+89
+00:05:47,092 --> 00:05:51,210  X1:102 X2:614 Y1:450 Y2:524
+Seems like just yesterday you guys
+used to come out to watch me work.
+
+90
+00:05:51,412 --> 00:05:53,687  X1:182 X2:532 Y1:444 Y2:524
+We can't believe
+you're selling the house.
+
+91
+00:05:53,892 --> 00:05:55,689  X1:201 X2:516 Y1:450 Y2:524
+Time for a new family
+to start here.
+
+92
+00:05:55,932 --> 00:05:59,004  X1:138 X2:580 Y1:446 Y2:524
+I hope their check clears before
+they find the crack...
+
+93
+00:05:59,212 --> 00:06:01,931  X1:139 X2:576 Y1:446 Y2:524
+...in the foundation
+and the asbestos in the ceiling.
+
+94
+00:06:03,772 --> 00:06:06,525  X1:188 X2:527 Y1:444 Y2:524
+Let's grab our stuff and
+get the hell out of here.
+
+95
+00:06:07,052 --> 00:06:10,328  X1:122 X2:593 Y1:444 Y2:524
+- Sorry we can't store your things.
+- Oh, it's okay.
+
+96
+00:06:10,572 --> 00:06:12,642  X1:108 X2:608 Y1:482 Y2:524
+I can't wait to see everything again.
+
+97
+00:06:12,892 --> 00:06:14,723  X1:134 X2:582 Y1:488 Y2:524
+I don't know what's down here.
+
+98
+00:06:14,932 --> 00:06:18,481  X1:153 X2:563 Y1:446 Y2:524
+But there are six or seven
+Easy-Bake Ovens in the attic.
+
+99
+00:06:19,452 --> 00:06:21,408  X1:130 X2:585 Y1:484 Y2:524
+I used to love to play restaurant.
+
+100
+00:06:21,612 --> 00:06:24,570  X1:125 X2:593 Y1:450 Y2:524
+Not as much as you loved to play
+"uncooked batter eater. "
+
+101
+00:06:25,852 --> 00:06:29,970  X1:125 X2:590 Y1:444 Y2:524
+You can't expect a child to wait
+for a light bulb to cook brownies.
+
+102
+00:06:31,572 --> 00:06:34,006  X1:108 X2:607 Y1:484 Y2:524
+So I think your boxes are over here.
+
+103
+00:06:34,212 --> 00:06:35,565  X1:278 X2:437 Y1:484 Y2:524
+Oh, great.
+
+104
+00:06:35,772 --> 00:06:37,410  X1:305 X2:411 Y1:484 Y2:524
+Hey...
+
+105
+00:06:37,612 --> 00:06:39,568  X1:148 X2:571 Y1:484 Y2:524
+...whose cigarettes are these?
+
+106
+00:06:41,532 --> 00:06:43,523  X1:256 X2:459 Y1:488 Y2:524
+I don't know.
+
+107
+00:06:43,772 --> 00:06:46,047  X1:154 X2:560 Y1:482 Y2:524
+They must be your mother's.
+
+108
+00:06:46,292 --> 00:06:50,808  X1:129 X2:586 Y1:444 Y2:524
+But please, please don't ask her.
+I'll throw these away.
+
+109
+00:06:54,612 --> 00:06:57,843  X1:158 X2:558 Y1:484 Y2:524
+Cool! Dad, my report cards!
+
+110
+00:06:58,092 --> 00:06:59,411  X1:212 X2:503 Y1:484 Y2:524
+Hey, check this out.
+
+111
+00:06:59,612 --> 00:07:04,606  X1:173 X2:542 Y1:444 Y2:524
+Math, "A. " Science, "A. "
+History, "A. " Gym... .
+
+112
+00:07:10,372 --> 00:07:13,045  X1:231 X2:484 Y1:484 Y2:524
+My rock polisher!
+
+113
+00:07:16,612 --> 00:07:18,568  X1:296 X2:420 Y1:450 Y2:524
+- Uh-oh.
+- What?
+
+114
+00:07:18,772 --> 00:07:20,888  X1:172 X2:545 Y1:446 Y2:524
+You know how the garage
+floods every spring?
+
+115
+00:07:21,132 --> 00:07:24,090  X1:158 X2:558 Y1:446 Y2:524
+How are you ever gonna sell
+this place?
+
+116
+00:07:24,412 --> 00:07:27,006  X1:192 X2:523 Y1:450 Y2:524
+I think I accidentally
+used Monica's boxes...
+
+117
+00:07:27,252 --> 00:07:29,561  X1:176 X2:544 Y1:450 Y2:524
+...to keep the water away
+from the Porsche.
+
+118
+00:07:32,172 --> 00:07:35,244  X1:218 X2:499 Y1:486 Y2:524
+Oh, no, Dad. Dad?
+
+119
+00:07:35,492 --> 00:07:36,402  X1:274 X2:443 Y1:488 Y2:524
+What the...
+
+120
+00:07:36,652 --> 00:07:40,804  X1:214 X2:501 Y1:446 Y2:524
+Oh, God.
+Everything's ruined!
+
+121
+00:07:41,052 --> 00:07:43,168  X1:149 X2:567 Y1:482 Y2:524
+Dad, she's gonna be crushed.
+
+122
+00:07:44,972 --> 00:07:47,008  X1:116 X2:601 Y1:482 Y2:524
+You don't secretly smoke, do you?
+
+123
+00:07:48,772 --> 00:07:49,602  X1:322 X2:394 Y1:488 Y2:524
+No.
+
+124
+00:07:50,372 --> 00:07:52,567  X1:150 X2:564 Y1:482 Y2:524
+So it's just your mother then.
+
+125
+00:07:55,772 --> 00:07:59,048  X1:157 X2:557 Y1:446 Y2:524
+Hi. This is Phoebe
+from Empire Office Supplies.
+
+126
+00:07:59,252 --> 00:08:02,050  X1:183 X2:533 Y1:446 Y2:524
+Can I speak to your
+supply manager, please?
+
+127
+00:08:03,092 --> 00:08:04,969  X1:254 X2:462 Y1:488 Y2:524
+Earl. Thanks.
+
+128
+00:08:05,652 --> 00:08:09,486  X1:157 X2:557 Y1:446 Y2:524
+Hi, Earl. This is Phoebe
+from Empire Office Supplies.
+
+129
+00:08:09,732 --> 00:08:12,200  X1:187 X2:528 Y1:444 Y2:524
+I'd like to talk to you
+about your toner needs.
+
+130
+00:08:12,572 --> 00:08:14,802  X1:194 X2:522 Y1:482 Y2:524
+I don't need any toner.
+
+131
+00:08:15,972 --> 00:08:20,409  X1:124 X2:591 Y1:444 Y2:524
+I hear what you're saying, but at
+our prices, everyone needs toner.
+
+132
+00:08:20,612 --> 00:08:23,126  X1:293 X2:423 Y1:488 Y2:524
+Not me.
+
+133
+00:08:23,452 --> 00:08:25,170  X1:242 X2:475 Y1:484 Y2:524
+May I ask why?
+
+134
+00:08:25,372 --> 00:08:27,806  X1:184 X2:532 Y1:484 Y2:524
+You want to know why?
+
+135
+00:08:28,492 --> 00:08:29,766  X1:184 X2:532 Y1:484 Y2:524
+You want to know why?
+
+136
+00:08:29,972 --> 00:08:31,803  X1:271 X2:445 Y1:484 Y2:524
+I surely do.
+
+137
+00:08:32,452 --> 00:08:33,441  X1:307 X2:408 Y1:484 Y2:524
+<i>Okay. </i>
+
+138
+00:08:34,092 --> 00:08:36,652  X1:184 X2:532 Y1:482 Y2:524
+I don't need any toner...
+
+139
+00:08:36,892 --> 00:08:38,848  X1:132 X2:584 Y1:482 Y2:524
+...because I'm gonna kill myself.
+
+140
+00:08:51,052 --> 00:08:53,612  X1:109 X2:608 Y1:482 Y2:524
+Is that because you're out of toner?
+
+141
+00:08:57,412 --> 00:09:02,406  X1:171 X2:544 Y1:446 Y2:524
+Okay, so no toner today.
+Thanks anyway. Bye-bye.
+
+142
+00:09:02,652 --> 00:09:06,964  X1:107 X2:607 Y1:444 Y2:524
+Wait, wait! I can't let you hang up.
+Just please talk to me.
+
+143
+00:09:07,412 --> 00:09:08,561  X1:295 X2:419 Y1:488 Y2:524
+Well... .
+
+144
+00:09:09,812 --> 00:09:11,643  X1:129 X2:587 Y1:484 Y2:524
+I only had one thing to do today.
+
+145
+00:09:14,732 --> 00:09:17,371  X1:159 X2:557 Y1:484 Y2:524
+I guess I could push it back.
+
+146
+00:09:17,812 --> 00:09:20,406  X1:181 X2:536 Y1:446 Y2:524
+Yeah. Now, why do you
+want to kill yourself?
+
+147
+00:09:21,972 --> 00:09:24,850  X1:143 X2:574 Y1:450 Y2:524
+I've been working for 10 years
+now at this...
+
+148
+00:09:25,092 --> 00:09:27,048  X1:142 X2:574 Y1:484 Y2:524
+...meaningless, dead-end job...
+
+149
+00:09:27,292 --> 00:09:30,250  X1:186 X2:529 Y1:450 Y2:524
+...and nobody here
+even knows that I exist.
+
+150
+00:09:31,372 --> 00:09:32,851  X1:280 X2:437 Y1:488 Y2:524
+Chandler?
+
+151
+00:09:37,252 --> 00:09:39,208  X1:279 X2:438 Y1:482 Y2:524
+I'm sorry?
+
+152
+00:09:40,732 --> 00:09:42,051  X1:298 X2:417 Y1:488 Y2:524
+Look...
+
+153
+00:09:42,252 --> 00:09:44,686  X1:159 X2:559 Y1:444 Y2:524
+...I'm sure that people know
+you exist.
+
+154
+00:09:44,932 --> 00:09:46,923  X1:133 X2:582 Y1:484 Y2:524
+Oh, yeah? I work in a cubicle...
+
+155
+00:09:47,172 --> 00:09:48,571  X1:185 X2:532 Y1:484 Y2:524
+...surrounded by people.
+
+156
+00:09:48,812 --> 00:09:52,805  X1:115 X2:600 Y1:444 Y2:524
+I've been talking to you for five
+minutes now about killing myself...
+
+157
+00:09:53,412 --> 00:09:56,529  X1:141 X2:577 Y1:444 Y2:524
+...and no one's even looked up
+from their desk. Hang on.
+
+158
+00:09:56,732 --> 00:09:58,450  X1:228 X2:487 Y1:484 Y2:524
+Hey, everybody...
+
+159
+00:09:58,652 --> 00:10:00,085  X1:190 X2:526 Y1:482 Y2:524
+...I'm gonna kill myself.
+
+160
+00:10:04,612 --> 00:10:05,840  X1:256 X2:460 Y1:484 Y2:524
+I got nothing.
+
+161
+00:10:08,972 --> 00:10:10,564  X1:268 X2:447 Y1:488 Y2:524
+Good chair.
+
+162
+00:10:11,132 --> 00:10:12,611  X1:188 X2:527 Y1:484 Y2:524
+Now, if anybody asks...
+
+163
+00:10:12,852 --> 00:10:15,491  X1:197 X2:520 Y1:484 Y2:524
+...your name is Rosita.
+
+164
+00:10:37,852 --> 00:10:40,650  X1:112 X2:603 Y1:484 Y2:524
+Poor thing. Cut down in her prime.
+
+165
+00:10:42,292 --> 00:10:44,760  X1:192 X2:523 Y1:450 Y2:524
+Joey, the new chair
+will be here in an hour.
+
+166
+00:10:44,972 --> 00:10:47,440  X1:191 X2:527 Y1:450 Y2:524
+Maybe we should move
+Rosita out of here.
+
+167
+00:10:47,652 --> 00:10:49,847  X1:175 X2:539 Y1:484 Y2:524
+Start the healing process.
+
+168
+00:10:50,892 --> 00:10:52,450  X1:169 X2:545 Y1:482 Y2:524
+Yeah, I guess you're right.
+
+169
+00:11:13,012 --> 00:11:14,968  X1:255 X2:460 Y1:488 Y2:524
+She's healed!
+
+170
+00:11:19,132 --> 00:11:19,928  X1:257 X2:458 Y1:488 Y2:524
+That's weird.
+
+171
+00:11:20,172 --> 00:11:21,525  X1:225 X2:491 Y1:486 Y2:524
+No, it's not weird.
+
+172
+00:11:21,732 --> 00:11:23,245  X1:255 X2:461 Y1:488 Y2:524
+It's a miracle!
+
+173
+00:11:24,372 --> 00:11:27,170  X1:166 X2:552 Y1:444 Y2:524
+It's not a miracle. I'm sure
+there's an explanation.
+
+174
+00:11:27,372 --> 00:11:31,411  X1:142 X2:574 Y1:446 Y2:524
+There is. If your heart is pure,
+wondrous things can happen.
+
+175
+00:11:33,852 --> 00:11:36,412  X1:181 X2:535 Y1:444 Y2:524
+She'll understand.
+I didn't do it on purpose.
+
+176
+00:11:36,612 --> 00:11:38,125  X1:146 X2:569 Y1:486 Y2:524
+Dad, that won't matter to her.
+
+177
+00:11:38,452 --> 00:11:40,602  X1:123 X2:592 Y1:484 Y2:524
+Look, all my stuff is safe and dry.
+
+178
+00:11:40,852 --> 00:11:42,251  X1:207 X2:508 Y1:488 Y2:524
+And all her stuff is...
+
+179
+00:11:42,492 --> 00:11:45,211  X1:206 X2:510 Y1:484 Y2:524
+...growing new stuff.
+
+180
+00:11:45,692 --> 00:11:47,091  X1:173 X2:542 Y1:484 Y2:524
+This is the kind of thing...
+
+181
+00:11:47,332 --> 00:11:50,324  X1:163 X2:551 Y1:446 Y2:524
+...that makes her think
+you love me more than her.
+
+182
+00:11:50,772 --> 00:11:52,603  X1:145 X2:573 Y1:484 Y2:524
+My God. Does she think that?
+
+183
+00:11:52,812 --> 00:11:54,040  X1:178 X2:538 Y1:484 Y2:524
+Well, can you blame her?
+
+184
+00:11:55,092 --> 00:11:58,482  X1:072 X2:643 Y1:450 Y2:524
+We may have favored you unconsciously.
+You were a marvel.
+
+185
+00:11:58,692 --> 00:12:01,923  X1:093 X2:624 Y1:450 Y2:524
+- The doctors said your mom couldn't...
+- I don't want to hear it.
+
+186
+00:12:02,132 --> 00:12:04,646  X1:208 X2:507 Y1:446 Y2:524
+- Really?
+- Well, not right now.
+
+187
+00:12:05,412 --> 00:12:09,246  X1:092 X2:623 Y1:446 Y2:524
+Monica came here for some memories.
+Damn it, we'll give her some.
+
+188
+00:12:09,492 --> 00:12:11,164  X1:253 X2:462 Y1:484 Y2:524
+Okay, grab... .
+
+189
+00:12:11,372 --> 00:12:14,364  X1:115 X2:602 Y1:450 Y2:524
+Grab some boxes. We'll take stuff
+from mine...
+
+190
+00:12:14,612 --> 00:12:18,651  X1:133 X2:587 Y1:446 Y2:524
+...and whatever we can pass off
+as hers, we'll put in there.
+
+191
+00:12:19,532 --> 00:12:21,602  X1:097 X2:619 Y1:486 Y2:524
+Like, this. She could have made this.
+
+192
+00:12:21,852 --> 00:12:23,922  X1:163 X2:552 Y1:450 Y2:524
+- This could have been hers.
+- Sure.
+
+193
+00:12:26,452 --> 00:12:31,367  X1:100 X2:616 Y1:446 Y2:524
+If you want to tell the medical marvel
+story while we work, that'd be fine.
+
+194
+00:12:34,812 --> 00:12:38,248  X1:167 X2:548 Y1:446 Y2:524
+I am so psyched
+I kept this chair for myself.
+
+195
+00:12:42,052 --> 00:12:44,043  X1:246 X2:469 Y1:488 Y2:524
+Yeah. Me too.
+
+196
+00:12:47,012 --> 00:12:51,244  X1:177 X2:540 Y1:446 Y2:524
+You know, this thing has
+speakers in the headrest?
+
+197
+00:12:51,492 --> 00:12:52,766  X1:270 X2:447 Y1:450 Y2:524
+- No, really?
+- Yeah.
+
+198
+00:12:53,012 --> 00:12:55,321  X1:174 X2:544 Y1:446 Y2:524
+You can hook it to the TV
+and you get radio.
+
+199
+00:13:00,652 --> 00:13:02,688  X1:208 X2:507 Y1:484 Y2:524
+My chair heals itself.
+
+200
+00:13:05,012 --> 00:13:07,765  X1:131 X2:586 Y1:444 Y2:524
+All right. Let's just forget about
+the people at the office, okay?
+
+201
+00:13:08,012 --> 00:13:11,607  X1:173 X2:543 Y1:444 Y2:524
+There's gotta be someone
+worth sticking around for.
+
+202
+00:13:11,812 --> 00:13:15,600  X1:150 X2:566 Y1:446 Y2:524
+What about family or friends?
+Maybe a girlfriend?
+
+203
+00:13:16,332 --> 00:13:17,526  X1:267 X2:448 Y1:484 Y2:524
+Yeah, right.
+
+204
+00:13:17,812 --> 00:13:19,723  X1:201 X2:517 Y1:484 Y2:524
+Oh, sorry. Boyfriend?
+
+205
+00:13:20,972 --> 00:13:22,087  X1:235 X2:480 Y1:484 Y2:524
+Okay, I should...
+
+206
+00:13:22,332 --> 00:13:24,766  X1:112 X2:604 Y1:484 Y2:524
+...be getting back to my thing now.
+
+207
+00:13:25,012 --> 00:13:26,491  X1:286 X2:429 Y1:484 Y2:524
+See you.
+
+208
+00:13:26,692 --> 00:13:29,365  X1:140 X2:576 Y1:444 Y2:524
+I'm not finished!
+Don't you dare hang up on me!
+
+209
+00:13:30,212 --> 00:13:32,168  X1:208 X2:506 Y1:482 Y2:524
+The new girl's good.
+
+210
+00:13:34,852 --> 00:13:36,570  X1:192 X2:524 Y1:488 Y2:524
+Which boxes are mine?
+
+211
+00:13:36,772 --> 00:13:39,206  X1:163 X2:553 Y1:446 Y2:524
+- These are yours right here.
+- Okay.
+
+212
+00:13:39,772 --> 00:13:41,285  X1:235 X2:479 Y1:484 Y2:524
+A coloring book.
+
+213
+00:13:41,652 --> 00:13:43,085  X1:206 X2:509 Y1:484 Y2:524
+You loved that thing.
+
+214
+00:13:43,292 --> 00:13:45,931  X1:104 X2:610 Y1:484 Y2:524
+You never went anywhere without...
+
+215
+00:13:46,172 --> 00:13:47,969  X1:153 X2:564 Y1:484 Y2:524
+...without that coloring book.
+
+216
+00:13:48,172 --> 00:13:49,287  X1:299 X2:419 Y1:484 Y2:524
+Really?
+
+217
+00:13:49,532 --> 00:13:52,046  X1:192 X2:526 Y1:446 Y2:524
+Looks like I had trouble
+staying in the lines.
+
+218
+00:13:52,252 --> 00:13:53,685  X1:293 X2:423 Y1:488 Y2:524
+Nuh-uh!
+
+219
+00:13:55,252 --> 00:13:56,287  X1:222 X2:492 Y1:486 Y2:524
+Wow, look at this.
+
+220
+00:13:56,532 --> 00:13:59,251  X1:208 X2:510 Y1:450 Y2:524
+I can't believe I even
+fit into this shirt.
+
+221
+00:14:03,732 --> 00:14:04,926  X1:232 X2:484 Y1:484 Y2:524
+Oh, this is yours.
+
+222
+00:14:05,172 --> 00:14:07,845  X1:113 X2:603 Y1:482 Y2:524
+I don't know how that got in there.
+
+223
+00:14:09,652 --> 00:14:11,563  X1:189 X2:527 Y1:482 Y2:524
+Hey, this isn't my stuff.
+
+224
+00:14:11,772 --> 00:14:14,969  X1:162 X2:554 Y1:484 Y2:524
+Ross, these are your boxes.
+
+225
+00:14:18,452 --> 00:14:20,044  X1:203 X2:514 Y1:484 Y2:524
+Where are my boxes?
+
+226
+00:14:21,052 --> 00:14:25,682  X1:120 X2:594 Y1:446 Y2:524
+The garage flooded, sweetie,
+and ruined your boxes. I'm sorry.
+
+227
+00:14:26,372 --> 00:14:27,361  X1:272 X2:443 Y1:488 Y2:524
+Just mine?
+
+228
+00:14:27,572 --> 00:14:29,085  X1:257 X2:458 Y1:488 Y2:524
+I'm afraid so.
+
+229
+00:14:29,332 --> 00:14:32,483  X1:137 X2:579 Y1:482 Y2:524
+Why wasn't Ross' stuff ruined?
+
+230
+00:14:33,252 --> 00:14:36,847  X1:147 X2:568 Y1:446 Y2:524
+I used your boxes to divert
+water away from the Porsche.
+
+231
+00:14:37,052 --> 00:14:39,646  X1:176 X2:539 Y1:450 Y2:524
+Ross' stuff is fine,
+but I have no memories...
+
+232
+00:14:39,852 --> 00:14:42,730  X1:135 X2:583 Y1:446 Y2:524
+...so you could keep the bottom
+of your car from water?
+
+233
+00:14:42,932 --> 00:14:45,446  X1:169 X2:545 Y1:446 Y2:524
+There was also
+leaves and gook and stuff.
+
+234
+00:14:48,252 --> 00:14:49,571  X1:219 X2:497 Y1:488 Y2:524
+I can't believe this!
+
+235
+00:14:56,092 --> 00:14:58,242  X1:173 X2:542 Y1:482 Y2:524
+Screw it. I'm having one.
+
+236
+00:15:02,932 --> 00:15:04,729  X1:243 X2:473 Y1:446 Y2:524
+- Hey, Chandler.
+- Hey.
+
+237
+00:15:04,932 --> 00:15:07,969  X1:183 X2:532 Y1:450 Y2:524
+How'd you like to sit
+in a chair that reclines...
+
+238
+00:15:08,252 --> 00:15:10,163  X1:175 X2:542 Y1:484 Y2:524
+...has a rolling massage...
+
+239
+00:15:10,412 --> 00:15:12,607  X1:135 X2:583 Y1:484 Y2:524
+...and speakers in the headrest?
+
+240
+00:15:12,812 --> 00:15:14,768  X1:142 X2:574 Y1:482 Y2:524
+I've tried that so many times...
+
+241
+00:15:15,012 --> 00:15:17,765  X1:179 X2:539 Y1:444 Y2:524
+...they won't even let me
+in the store anymore.
+
+242
+00:15:19,292 --> 00:15:22,364  X1:187 X2:528 Y1:446 Y2:524
+What if I said you could
+do it in my apartment?
+
+243
+00:15:22,572 --> 00:15:23,766  X1:209 X2:505 Y1:484 Y2:524
+Are you telling me...
+
+244
+00:15:24,012 --> 00:15:27,209  X1:140 X2:576 Y1:450 Y2:524
+...you bought the chair
+that makes all others obsolete?
+
+245
+00:15:27,452 --> 00:15:32,003  X1:122 X2:594 Y1:450 Y2:524
+The chair that <i>Sit Magazine</i> called
+"Chair of the Year"?
+
+246
+00:15:33,772 --> 00:15:34,761  X1:225 X2:490 Y1:484 Y2:524
+I just purchased...
+
+247
+00:15:34,972 --> 00:15:39,011  X1:148 X2:568 Y1:484 Y2:524
+...the La-Z-Boy E-Cliner 3000.
+
+248
+00:15:39,212 --> 00:15:41,362  X1:103 X2:611 Y1:444 Y2:524
+Well, that's awesome! That's great!
+What made you do it?
+
+249
+00:15:41,572 --> 00:15:44,405  X1:205 X2:512 Y1:444 Y2:524
+It's a long story, but,
+I broke Joey's chair...
+
+250
+00:15:44,612 --> 00:15:47,206  X1:186 X2:530 Y1:446 Y2:524
+Whoa, whoa, whoa.
+You broke Joey's chair?
+
+251
+00:15:47,412 --> 00:15:50,643  X1:172 X2:546 Y1:444 Y2:524
+I thought I did, that's why
+I replaced it with mine.
+
+252
+00:15:52,212 --> 00:15:54,601  X1:189 X2:526 Y1:482 Y2:524
+That's how it got fixed!
+
+253
+00:15:55,052 --> 00:15:58,044  X1:195 X2:522 Y1:450 Y2:524
+You thought that elves
+came in and fixed it?
+
+254
+00:15:58,252 --> 00:15:59,571  X1:322 X2:394 Y1:488 Y2:524
+No.
+
+255
+00:15:59,852 --> 00:16:01,570  X1:294 X2:420 Y1:484 Y2:524
+Angels.
+
+256
+00:16:02,652 --> 00:16:04,563  X1:173 X2:543 Y1:482 Y2:524
+I'm getting my chair back.
+
+257
+00:16:07,532 --> 00:16:10,763  X1:179 X2:535 Y1:450 Y2:524
+Well, looks like
+it wasn't healed after all!
+
+258
+00:16:12,412 --> 00:16:14,448  X1:148 X2:568 Y1:482 Y2:524
+I guess this chair's mine now.
+
+259
+00:16:17,612 --> 00:16:19,204  X1:172 X2:542 Y1:484 Y2:524
+Joey, you broke my chair!
+
+260
+00:16:19,412 --> 00:16:20,367  X1:270 X2:447 Y1:488 Y2:524
+Your chair?
+
+261
+00:16:20,572 --> 00:16:23,405  X1:192 X2:524 Y1:450 Y2:524
+He thought he broke it,
+so he switched chairs.
+
+262
+00:16:23,612 --> 00:16:25,250  X1:178 X2:538 Y1:488 Y2:524
+So there was no miracle?
+
+263
+00:16:25,452 --> 00:16:27,170  X1:205 X2:510 Y1:486 Y2:524
+No, Joe. No miracle.
+
+264
+00:16:27,452 --> 00:16:29,329  X1:158 X2:557 Y1:484 Y2:524
+Oh, no! This is devastating!
+
+265
+00:16:31,092 --> 00:16:35,324  X1:111 X2:605 Y1:444 Y2:524
+My faith is shaken. I'm glad I have
+a new chair to get me through this.
+
+266
+00:16:37,812 --> 00:16:41,646  X1:145 X2:571 Y1:446 Y2:524
+Where can I find Earl?
+He's the supply manager here.
+
+267
+00:16:41,892 --> 00:16:43,245  X1:199 X2:516 Y1:482 Y2:524
+I don't know any Earl.
+
+268
+00:16:43,452 --> 00:16:45,647  X1:251 X2:464 Y1:482 Y2:524
+I'm right here!
+
+269
+00:16:48,892 --> 00:16:50,245  X1:313 X2:404 Y1:488 Y2:524
+Earl?
+
+270
+00:16:52,052 --> 00:16:53,326  X1:267 X2:449 Y1:488 Y2:524
+I'm Phoebe.
+
+271
+00:16:53,532 --> 00:16:54,851  X1:290 X2:427 Y1:488 Y2:524
+Phoebe?
+
+272
+00:16:55,052 --> 00:16:57,327  X1:176 X2:540 Y1:484 Y2:524
+The lady who sells toner?
+
+273
+00:16:57,532 --> 00:17:00,092  X1:157 X2:558 Y1:482 Y2:524
+Look, you can't kill yourself.
+
+274
+00:17:00,732 --> 00:17:03,326  X1:188 X2:530 Y1:446 Y2:524
+Look, I really appreciate
+you coming down...
+
+275
+00:17:03,532 --> 00:17:05,124  X1:186 X2:530 Y1:482 Y2:524
+No, I can't let you do it.
+
+276
+00:17:05,372 --> 00:17:09,411  X1:086 X2:630 Y1:446 Y2:524
+- Why?
+- Because, fate made me call you today.
+
+277
+00:17:09,612 --> 00:17:11,250  X1:197 X2:518 Y1:484 Y2:524
+I thought it was toner.
+
+278
+00:17:12,812 --> 00:17:16,043  X1:144 X2:570 Y1:446 Y2:524
+Think about it, okay?
+This isn't even my regular job.
+
+279
+00:17:16,972 --> 00:17:19,281  X1:129 X2:587 Y1:482 Y2:524
+My first day, you're my first call.
+
+280
+00:17:19,532 --> 00:17:22,922  X1:115 X2:600 Y1:450 Y2:524
+Somebody else may have hung up,
+but I wouldn't do that...
+
+281
+00:17:23,172 --> 00:17:24,924  X1:118 X2:598 Y1:488 Y2:524
+...because I know about this stuff.
+
+282
+00:17:25,172 --> 00:17:27,732  X1:192 X2:524 Y1:446 Y2:524
+- My mom killed herself.
+- Really?
+
+283
+00:17:28,292 --> 00:17:29,088  X1:308 X2:409 Y1:488 Y2:524
+How?
+
+284
+00:17:29,292 --> 00:17:30,805  X1:160 X2:556 Y1:482 Y2:524
+I'm not gonna give you tips.
+
+285
+00:17:32,732 --> 00:17:34,450  X1:179 X2:536 Y1:482 Y2:524
+Don't you see that this...
+
+286
+00:17:34,652 --> 00:17:38,361  X1:149 X2:569 Y1:446 Y2:524
+...all came together so I could
+stop you from doing this?
+
+287
+00:17:39,212 --> 00:17:42,761  X1:121 X2:597 Y1:448 Y2:524
+- Couldn't it just be a coincidence?
+- No, it's fate.
+
+288
+00:17:43,612 --> 00:17:46,570  X1:177 X2:541 Y1:444 Y2:524
+It doesn't really seem like
+enough to be fate.
+
+289
+00:17:46,812 --> 00:17:47,881  X1:285 X2:430 Y1:486 Y2:524
+Oh, well.
+
+290
+00:17:48,092 --> 00:17:49,889  X1:166 X2:549 Y1:482 Y2:524
+Okay, here's a weird thing.
+
+291
+00:17:50,132 --> 00:17:54,045  X1:088 X2:627 Y1:484 Y2:524
+My mother was also a supply manager.
+
+292
+00:17:55,532 --> 00:17:57,329  X1:137 X2:579 Y1:482 Y2:524
+I'm actually the office manager.
+
+293
+00:17:57,532 --> 00:17:59,443  X1:171 X2:545 Y1:484 Y2:524
+Oh, my God! So was she!
+
+294
+00:17:59,652 --> 00:18:01,768  X1:218 X2:497 Y1:484 Y2:524
+And get this, okay.
+
+295
+00:18:02,012 --> 00:18:05,482  X1:183 X2:534 Y1:450 Y2:524
+Your name is Earl, right?
+Her name was Pearl.
+
+296
+00:18:05,732 --> 00:18:07,848  X1:286 X2:429 Y1:488 Y2:524
+Puh-Earl.
+
+297
+00:18:09,052 --> 00:18:10,690  X1:179 X2:537 Y1:484 Y2:524
+Was there anything else?
+
+298
+00:18:10,892 --> 00:18:11,881  X1:309 X2:406 Y1:488 Y2:524
+Sure.
+
+299
+00:18:14,692 --> 00:18:15,522  X1:214 X2:502 Y1:482 Y2:524
+Where're you from?
+
+300
+00:18:15,732 --> 00:18:18,292  X1:173 X2:543 Y1:446 Y2:524
+- Philadelphia.
+- Oh, my God, so was she!
+
+301
+00:18:20,052 --> 00:18:21,804  X1:198 X2:517 Y1:482 Y2:524
+I've got goose bumps.
+
+302
+00:18:22,332 --> 00:18:23,208  X1:299 X2:419 Y1:484 Y2:524
+Really?
+
+303
+00:18:23,412 --> 00:18:25,448  X1:120 X2:595 Y1:482 Y2:524
+I'm wearing layers, and it's warm.
+
+304
+00:18:27,012 --> 00:18:29,162  X1:085 X2:630 Y1:484 Y2:524
+These jerks might not care about you...
+
+305
+00:18:29,412 --> 00:18:33,121  X1:184 X2:533 Y1:446 Y2:524
+...but the universe does,
+and that says a lot.
+
+306
+00:18:35,052 --> 00:18:36,644  X1:224 X2:493 Y1:484 Y2:524
+Did you hear that?
+
+307
+00:18:37,132 --> 00:18:39,487  X1:201 X2:516 Y1:450 Y2:524
+I don't need you guys
+to care about me...
+
+308
+00:18:39,692 --> 00:18:41,683  X1:148 X2:568 Y1:488 Y2:524
+...because the universe cares!
+
+309
+00:18:41,932 --> 00:18:44,162  X1:212 X2:503 Y1:488 Y2:524
+The whole universe!
+
+310
+00:18:49,332 --> 00:18:52,244  X1:187 X2:530 Y1:450 Y2:524
+I really wish they'd care
+a little bit.
+
+311
+00:18:53,652 --> 00:18:55,449  X1:222 X2:493 Y1:486 Y2:524
+Oh, this is terrible.
+
+312
+00:18:55,692 --> 00:18:57,603  X1:187 X2:528 Y1:484 Y2:524
+Everything is destroyed.
+
+313
+00:18:58,972 --> 00:18:59,927  X1:262 X2:453 Y1:488 Y2:524
+Look at this.
+
+314
+00:19:00,172 --> 00:19:04,211  X1:134 X2:583 Y1:450 Y2:524
+It meant enough for me to save,
+and now I can't tell what it is.
+
+315
+00:19:05,412 --> 00:19:07,403  X1:261 X2:455 Y1:488 Y2:524
+It's still soft.
+
+316
+00:19:09,812 --> 00:19:11,609  X1:172 X2:545 Y1:484 Y2:524
+What do you think this is?
+
+317
+00:19:13,212 --> 00:19:15,009  X1:194 X2:521 Y1:488 Y2:524
+I think it was a mouse.
+
+318
+00:19:23,252 --> 00:19:25,971  X1:184 X2:534 Y1:446 Y2:524
+- How are you, honey?
+- How do you think I am?
+
+319
+00:19:26,172 --> 00:19:28,527  X1:066 X2:649 Y1:482 Y2:524
+You've wrecked my childhood memories...
+
+320
+00:19:28,732 --> 00:19:30,370  X1:140 X2:577 Y1:484 Y2:524
+...you love Ross more than me.
+
+321
+00:19:30,612 --> 00:19:33,331  X1:170 X2:544 Y1:446 Y2:524
+And I just rubbed
+a dead mouse on my face.
+
+322
+00:19:35,412 --> 00:19:39,564  X1:181 X2:536 Y1:446 Y2:524
+Sweetheart, we love you
+just as much as Ross.
+
+323
+00:19:39,772 --> 00:19:41,603  X1:125 X2:590 Y1:482 Y2:524
+I'm sorry about what happened...
+
+324
+00:19:41,852 --> 00:19:45,128  X1:199 X2:520 Y1:444 Y2:524
+...and I probably can't
+make it up to you...
+
+325
+00:19:45,372 --> 00:19:47,124  X1:212 X2:504 Y1:488 Y2:524
+...but here's a start.
+
+326
+00:19:49,932 --> 00:19:52,924  X1:162 X2:553 Y1:444 Y2:524
+- What's this?
+- It's the key to my Porsche.
+
+327
+00:19:53,132 --> 00:19:55,202  X1:145 X2:570 Y1:484 Y2:524
+Well, the key to your Porsche.
+
+328
+00:19:56,332 --> 00:19:57,367  X1:302 X2:414 Y1:488 Y2:524
+What?
+
+329
+00:19:57,572 --> 00:19:59,130  X1:297 X2:417 Y1:488 Y2:524
+What?!
+
+330
+00:20:00,172 --> 00:20:04,962  X1:123 X2:593 Y1:444 Y2:524
+I've considered getting rid of it.
+I saw my reflection the other day.
+
+331
+00:20:05,212 --> 00:20:08,249  X1:208 X2:507 Y1:450 Y2:524
+Your mother's right,
+I do look like an ass.
+
+332
+00:20:09,372 --> 00:20:11,932  X1:195 X2:522 Y1:444 Y2:524
+You're giving it to me?
+You're kidding.
+
+333
+00:20:12,132 --> 00:20:14,965  X1:212 X2:503 Y1:486 Y2:524
+Well, wait a minute.
+
+334
+00:20:15,172 --> 00:20:18,721  X1:121 X2:595 Y1:446 Y2:524
+A couple of stupid boxes get wet,
+and she gets a Porsche?
+
+335
+00:20:20,772 --> 00:20:22,683  X1:219 X2:499 Y1:444 Y2:524
+- Let's take a drive?
+- All right!
+
+336
+00:20:22,892 --> 00:20:26,362  X1:087 X2:627 Y1:488 Y2:524
+What about me? I'm a medical marvel!
+
+337
+00:20:39,652 --> 00:20:40,880  X1:274 X2:441 Y1:052 Y2:093
+Hey, guys.
+
+338
+00:20:41,132 --> 00:20:42,884  X1:131 X2:586 Y1:052 Y2:094
+Have you seen Chandler's chair?
+
+339
+00:20:43,092 --> 00:20:45,048  X1:141 X2:572 Y1:052 Y2:093
+Joey broke it. He got rid of it.
+
+340
+00:20:45,252 --> 00:20:49,291  X1:126 X2:591 Y1:052 Y2:131
+Are you kidding? I get a Porsche
+and the Barcalounger's gone?
+
+341
+00:20:49,492 --> 00:20:52,450  X1:177 X2:537 Y1:052 Y2:093
+This is the best day ever!
+
+
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
